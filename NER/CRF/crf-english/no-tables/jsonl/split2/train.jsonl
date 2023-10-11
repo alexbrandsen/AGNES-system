@@ -1,0 +1,740 @@
+{"id":831,"text":"INTRODUCTION  7  1.1  Project  Background  7  1.2  Site  Location  and  Description  7  1.3  Archaeological  Background  7  1.4  Methodologies  9  1.5  Professional  Standards  9  2  . ","label":[]}
+{"id":832,"text":"FIELDWALKING  11  2.1  Introduction  11  2.2  Method  Statement  . ","label":[]}
+{"id":833,"text":"11  2.3  Results  11  3  . ","label":[]}
+{"id":834,"text":"GEOPHYSICAL  SURVEY  12  3.1  Introduction  12  3.2  Method  Statement  . ","label":[]}
+{"id":835,"text":"12  3.3  Results  12  4  . ","label":[]}
+{"id":837,"text":"SYNTHESIS  17  5.1  Discussion  17  5.2  Summary  17  6  . ","label":[]}
+{"id":838,"text":"BIBLIOGRAPHY  18  2  . ","label":[]}
+{"id":840,"text":"All  statements  and  opinions  in  this  document  are  offered  in  good  faith  . ","label":[]}
+{"id":841,"text":"Albion  Archaeology  can  not  accept  responsibility  for  errors  offact  or  opinion  resultingfrom  data  supplied  by  a  third  party  ,  or  for  any  loss  or  other  consequence  arising  from  decisions  or  actions  made  upon  the  basis  of  facts  or  opinions  expressed  in  this  document  . ","label":[]}
+{"id":842,"text":"This  report  has  been  prepared  by  James  Pixley  (  Project  Officer  )  and  edited  by  Joe  Abrams  (  Project  Manager  )  . ","label":[]}
+{"id":843,"text":"The  fieldwalking  was  undertaken  by  James  Pixley  ,  Joan  Lightning  (  CAD  Technician  )  and  Caroline  Clarke  (  Assistant  Supervisor  )  . ","label":[]}
+{"id":844,"text":"Field  evaluation  was  undertaken  by  Dan  Hounsell  (  Archaeological  Supervisor  )  ,  Alison  Bell  and  Adrian  Woolmer  (  Assistant  Supervisors  )  . ","label":[]}
+{"id":845,"text":"The  artefact  summary  was  prepared  by  Jackie  Wells  (  Finds  Officer  )  . ","label":[]}
+{"id":846,"text":"The  figures  were  prepared  by  Joan  Lightning  . ","label":[]}
+{"id":847,"text":"All  Albion  projects  are  under  the  overall  management  of  Drew  Shotliff  (  Operations  Manager  )  . ","label":[]}
+{"id":848,"text":"Albion  Archaeology  St  Mary  's  Church  St  Mary  's  Street  Bedford  ,  MK42  OAS  9  :  01234  294001  Fax  :  01234  294008  e-mail  :  office  @  albion-arch.com  Website  :  www.albion-arch.com  6thJune  2005  Structure  of  this  Report  Section  1  serves  as  an  introduction  to  the  site  ,  describing  its  location  ,  archaeological  background  and  the  aims  of  the  project  . ","label":[[21,72,"Location"],[213,219,"Time Period"]]}
+{"id":849,"text":"The  methodology  and  results  of  the  fieldwalking  survey  are  discussed  in  section  2  . ","label":[]}
+{"id":850,"text":"Section  3  summarises  the  methodology  and  results  of  the  geophysical  survey  . ","label":[]}
+{"id":851,"text":"The  methodology  and  results  of  the  trial  trenching  are  discussed  in  section  4  . ","label":[]}
+{"id":852,"text":"Section  5  provides  a  synthesis  of  the  results  ,  and  states  their  significance  within  the  surrounding  landscape  . ","label":[]}
+{"id":853,"text":"Section  6  is  a  bibliography  . ","label":[]}
+{"id":854,"text":"Appendix  1  contains  all  trench  summary  information  . ","label":[]}
+{"id":855,"text":"Appendix  2  contains  finds  information  for  the  field  walking  survey  and  trial  trenching  . ","label":[]}
+{"id":856,"text":"Appendix  3  contains  the  full  geophysical  survey  report  . ","label":[]}
+{"id":857,"text":"All  figures  are  bound  at  the  back  of  this  report  . ","label":[]}
+{"id":859,"text":"HER  Historic  Environment  Record  IFA  Institute  of  Field  Archaeologists  MAP  II  PD  WYAS  The  site  Management  of  Archaeological  Projects  . ","label":[]}
+{"id":861,"text":"The  work  was  occasioned  by  a  proposed  extension  to  the  Yale  Cemetery  and  Crematorium  . ","label":[]}
+{"id":862,"text":"The  c.4ha  proposed  cemetery  extension  lies  on  the  north-eastern  fringes  of  Luton  ,  centred  at  TL  1060  2466  . ","label":[[86,92,"Location"]]}
+{"id":863,"text":"It  is  bounded  to  the  east  by  the  existing  cemetery  and  to  the  west  by  Butterfield  Green  Road  ,  which  leads  to  the  rural  hamlet  of  Butterfield  Green  . ","label":[[85,110,"Location"],[156,175,"Location"]]}
+{"id":864,"text":"To  the  north  it  is  bounded  by  the  wider  Butterfield  development  area  (  still  under  arable  cultivation  at  the  time  of  the  fieldwork  )  . ","label":[[49,61,"Location"]]}
+{"id":865,"text":"The  Butterfield  development  area  is  set  within  a  landscape  that  contains  a  variety  of  evidence  for  prehistoric  ,  Roman  and  medieval  occupation  . ","label":[[5,17,"Location"],[115,127,"Time Period"],[131,137,"Time Period"],[143,152,"Time Period"]]}
+{"id":866,"text":"The  Icknield  Way  and  the  Edeway  run  to  the  north  of  the  proposed  development  and  a  number  of  early  prehistoric  ritual  and  burial  monuments  are  present  on  the  chalk  downland  . ","label":[[5,19,"Location"],[30,37,"Location"],[111,130,"Time Period"],[131,161,"Context"]]}
+{"id":867,"text":"The  area  also  demonstrates  significant  medieval  activity  in  the  form  of  manors  and  associated  earthworks  . ","label":[[44,53,"Time Period"]]}
+{"id":868,"text":"The  evaluation  demonstrated  the  presence  of  Iron  Age  ,  Roman  and  medieval  remains  within  the  proposed  development  area  . ","label":[[50,60,"Time Period"],[64,70,"Time Period"],[76,85,"Time Period"]]}
+{"id":869,"text":"On  the  evidence  of  the  trial  trenching  ,  the  western  part  of  the  site  has  the  highest  archaeological  potential  ,  a  conclusion  supported  by  the  distribution  of  artefacts  recovered  during  fieldwalking  . ","label":[]}
+{"id":870,"text":"Artefacts  recovered  from  the  fills  of  ditches  representing  field  systems  ,  hint  at  likely  settlement  activity  to  the  west  of  the  development  area  . ","label":[]}
+{"id":871,"text":"This  is  particularly  the  case  for  the  early  middle  Iron  Age  and  medieval  periods  ,  the  remains  of  which  are  likely  to  be  of  regional  significance  . ","label":[[45,70,"Time Period"],[76,85,"Time Period"]]}
+{"id":872,"text":"Although  the  geophysical  survey  demonstrated  limited  archaeological  potential  throughout  the  entire  site  ,  both  the  trial  trenching  and  fieldwalking  suggested  that  the  eastern  part  of  the  site  is  unlikely  to  contain  significant  archaeological  remains  . ","label":[]}
+{"id":874,"text":"INTRODUCTION  1.1  Project  Background  In  March  2003  outline  planning  permission  (  00\/573\/OUT  )  was  granted  for  an  extension  to  the  Vale  Cemetery  and  Crematorium  in  Luton  . ","label":[[51,57,"Time Period"],[187,193,"Location"]]}
+{"id":875,"text":"The  site  lies  close  to  Butterfield  Green  and  is  in  an  area  which  is  being  developed  as  a  university  campus  ,  an  innovation  centre  and  technology  village  . ","label":[[28,47,"Location"]]}
+{"id":876,"text":"A  condition  has  been  attached  to  the  planning  permission  ,  requiring  the  implementation  of  a  programme  of  archaeological  investigation  . ","label":[]}
+{"id":877,"text":"As  the  local  planning  authority  's  archaeological  adviser  ,  Bedfordshire  County  Council  's  Archaeological  Officer  (  BCC  's  AO  )  issued  a  brief  (  BCC  2003a  )  ,  outlining  a  three-staged  approach  to  the  programme  of  archaeological  work  :  +  Stage  I  -  archaeological  field  evaluation  comprising  fieldwalking  ,  geophysics  and  trial  trenching  . ","label":[[69,81,"Location"]]}
+{"id":878,"text":"+  Stage  II  -  appraisal  of  the  results  of  the  archaeological  field  evaluation  . ","label":[]}
+{"id":879,"text":"+  Stage  III  -  implementation  of  an  agreed  programme  of  archaeological  investigation  and  recording  (  if  required  ,  following  completion  of  Stage  II  )  . ","label":[]}
+{"id":880,"text":"BCC  's  AO  also  issued  a  brief  for  the  Stage  I  archaeological  field  evaluation  (  BCC  2003b  )  . ","label":[]}
+{"id":881,"text":"In  February  2005  ,  Albion  Archaeology  was  commissioned  by  Luton  Borough  Council  's  consultant  ,  Bertram  Sheppard  Ltd  to  undertake  all  elements  of  the  archaeological  field  evaluation  . ","label":[[14,20,"Time Period"],[67,73,"Location"]]}
+{"id":882,"text":"A  project  design  was  written  on  the  basis  of  the  brief  (  Albion  Archaeology  2005  )  . ","label":[[90,96,"Time Period"]]}
+{"id":883,"text":"1.2  Site  Location  and  Description  The  c.4ha  proposed  cemetery  extension  lies  on  the  north-eastern  fringes  of  Luton  ,  centred  at  TL  1060  2466  (  Figure  1  )  . ","label":[[125,131,"Location"]]}
+{"id":884,"text":"It  is  bounded  to  the  east  by  the  existing  cemetery  and  to  the  west  by  Butterfield  Green  Road  ,  which  leads  to  the  rural  hamlet  of  Butterfield  Green  . ","label":[[85,110,"Location"],[156,175,"Location"]]}
+{"id":885,"text":"To  the  north  it  is  bounded  by  the  wider  Butterfield  development  area  (  still  under  arable  cultivation  at  the  time  of  the  fieldwork  )  . ","label":[[49,61,"Location"]]}
+{"id":886,"text":"At  the  time  of  the  archaeological  field  evaluation  ,  the  land  was  under  arable  cultivation  . ","label":[]}
+{"id":887,"text":"It  formed  the  southern  end  of  a  large  field  ,  extending  northwards  to  Whitehill  Cottages  . ","label":[[83,103,"Location"]]}
+{"id":888,"text":"The  site  lies  within  a  wider  landscape  of  gently  rolling  ,  chalk  downs  . ","label":[]}
+{"id":889,"text":"The  land  surface  slopes  down  gradually  from  north  to  south  ,  at  a  height  of  c.165mOD  . ","label":[]}
+{"id":890,"text":"Within  the  Butterfield  area  as  a  whole  ,  soils  are  characterised  by  gleyed  brown  earth  with  flints  (  Batcombe  Association  )  and  chalky  loam  (  Coombe  Association  )  . ","label":[[13,26,"Location"]]}
+{"id":891,"text":"1.3  Archaeological  Background  The  proximity  of  the  site  to  the  Icknield  Way  and  the  Edeway  to  the  north  of  Butterfield  sets  it  within  a  landscape  that  contains  a  variety  of  evidence  for  the  prehistoric  ,  Roman  ,  medieval  and  post-medieval  periods  . ","label":[[73,87,"Location"],[98,105,"Location"],[126,138,"Location"],[223,235,"Time Period"],[239,245,"Time Period"],[249,258,"Time Period"],[264,278,"Time Period"]]}
+{"id":893,"text":"This  data  was  obtained  from  Bedfordshire  's  Historic  Environment  Record  (  HER  )  . ","label":[[33,46,"Location"]]}
+{"id":894,"text":"1.3.1  Prehistoric  (  before  AD43  )  Several  ditches  two  pits  and  a  gully  of  probable  late  prehistoric  date  were  identified  c.430m  to  the  north-east  of  the  site  in  advance  of  construction  of  the  spine  road  and  early  phases  of  the  Butterfield  area  development  (  Carew  2004  )  . ","label":[[98,116,"Time Period"],[267,279,"Location"],[309,315,"Time Period"]]}
+{"id":895,"text":"These  coincide  with  a  known  flint  scatter  ,  containing  both  Neolithic  and  Bronze  Age  material  (  HER  15847  )  . ","label":[[33,40,"Material"],[40,49,"Artefact"],[70,80,"Time Period"],[86,98,"Time Period"]]}
+{"id":896,"text":"A  geophysical  survey  conducted  within  this  area  also  confirmed  the  presence  of  likely  archaeological  features  (  NA  2004  )  . ","label":[[132,138,"Time Period"]]}
+{"id":897,"text":"Further  cropmarks  east  of  the  Vale  Cemetery  (  c.300m  east  of  the  proposed  extension  )  have  unfortunately  been  built  over  but  could  have  dated  to  a  similar  period  (  HER12419  )  . ","label":[[35,50,"Location"]]}
+{"id":898,"text":"Land  east  and  west  of  Whitehill  Farm  (  c.700m  north  of  the  site  )  has  produced  significant  flint  scatters  dating  to  the  Mesolithic  ,  Neolithic  and  Bronze  Age  (  HER  15527  and  15526  )  . ","label":[[27,43,"Location"],[108,115,"Material"],[115,125,"Artefact"],[142,153,"Time Period"],[157,167,"Time Period"],[173,185,"Time Period"]]}
+{"id":899,"text":"An  Iron  Age  gold  stater  was  found  in  1949  at  Canon  Lane  c.400m  south  of  the  site  . ","label":[[4,14,"Time Period"],[15,21,"Material"],[21,29,"Artefact"],[45,50,"Time Period"],[55,67,"Location"]]}
+{"id":900,"text":"1.3.2  Roman  (  AD43  -  c.AD450  )  Some  200m  to  the  north  of  the  proposed  cemetery  extension  ,  a  dense  scatter  of  Roman  pottery  and  tile  was  identified  during  fieldwalking  (  HER15528  ,  Hudspith  1993  )  . ","label":[[7,13,"Time Period"],[17,34,"Time Period"],[132,138,"Time Period"],[139,148,"Artefact"],[153,159,"Artefact"]]}
+{"id":901,"text":"This  scatter  is  probably  indicative  of  a  nearby  settlement  site  . ","label":[[6,15,"Artefact"]]}
+{"id":902,"text":"A  double  ditched  cropmark  (  HER  3424  )  exists  c.400m  to  the  north-west  of  the  site  . ","label":[[3,29,"Context"]]}
+{"id":903,"text":"It  is  possible  that  this  could  be  of  Roman  date  ;  similar  cropmarks  also  existing  further  to  the  south-west  (  HER  12418  )  . ","label":[[45,51,"Time Period"],[70,80,"Context"]]}
+{"id":904,"text":"1.3.3  Anglo-Saxon  (  c.AD450-AD1066  )  No  known  sites  of  Saxon  date  exist  within  the  study  area  . ","label":[[7,19,"Time Period"],[23,38,"Time Period"],[64,70,"Time Period"]]}
+{"id":905,"text":"However  ,  given  the  extensive  nearby  medieval  settlement  it  is  likely  that  earlier  Saxon  remains  could  be  encountered  . ","label":[[43,52,"Time Period"],[96,102,"Time Period"]]}
+{"id":906,"text":"It  has  been  suggested  that  triangular  greens  may  have  Anglo-Saxon  origins  (  Taylor  1988  )  . ","label":[[63,75,"Time Period"],[96,102,"Time Period"]]}
+{"id":907,"text":"Although  this  hypothesis  is  largely  based  on  research  within  Cambridgeshire  ,  similar  greens  around  Butterfield  ,  and  Luton  as  a  whole  ,  could  be  of  this  date  . ","label":[[70,85,"Location"],[114,126,"Location"],[135,141,"Location"]]}
+{"id":908,"text":"1.3.4  Medieval  (  AD1066-AD1550  )  A  number  of  medieval  sites  are  located  within  the  study  area  . ","label":[[7,16,"Time Period"],[20,34,"Time Period"],[53,63,"Time Period"]]}
+{"id":909,"text":"They  are  relatively  evenly  distributed  settlements  within  close  proximity  to  each  other  . ","label":[]}
+{"id":910,"text":"The  evidence  takes  the  form  of  earthworks  ,  greens  ,  farms  and  pottery  scatters  . ","label":[[37,49,"Artefact"],[75,92,"Artefact"]]}
+{"id":911,"text":"A  total  of  three  medieval  greens  exist  within  the  vicinity  of  the  proposed  cemetery  extension  . ","label":[[21,30,"Time Period"]]}
+{"id":913,"text":"A  medieval  pottery  scatter  adjacent  to  this  area  further  indicates  likely  settlement  activity  (  HER15226  )  . ","label":[[3,12,"Time Period"],[13,29,"Artefact"]]}
+{"id":914,"text":"A  second  green  ,  known  as  Swifts  Green  (  HER12401  )  ,  exists  c.250m  south  of  the  site  . ","label":[[32,46,"Location"]]}
+{"id":915,"text":"The  northern  fringe  of  the  medieval  settlement  of  Stopsley  lies  c.500m  south  of  the  site  (  HER17100  )  . ","label":[[32,41,"Time Period"],[58,67,"Location"]]}
+{"id":916,"text":"It  also  has  a  triangular  green  (  HER12400  )  . ","label":[]}
+{"id":917,"text":"Other  sites  include  Manor  Farm  (  formerly  known  as  Hayes  Farm  after  its  medieval  owners  the  de  la  Haye  family  (  HER10816  )  )  on  the  opposite  side  of  Butterfield  Green  Road  . ","label":[[23,35,"Location"],[60,72,"Location"],[85,94,"Time Period"],[178,203,"Location"]]}
+{"id":918,"text":"Its  origins  are  in  the  12d  `  century  and  it  is  likely  that  the  earlier  farmhouse  stood  in  the  orchard  between  the  present  farmhouse  and  the  eastern  pond  c.250m  west  of  the  proposed  cemetery  extension  (  Dyer  1998  )  . ","label":[[28,44,"Time Period"],[244,250,"Time Period"]]}
+{"id":919,"text":"Earthworks  to  the  south-west  of  the  farm  on  the  existing  playing  fields  are  likely  to  be  related  (  HER3341  )  . ","label":[]}
+{"id":920,"text":"Earthworks  are  evident  in  the  vicinity  of  Whitehill  Farm  (  c.900m  to  the  north  of  the  cemetery  extension  )  . ","label":[[49,65,"Location"]]}
+{"id":921,"text":"Aerial  photographs  and  pottery  scatters  suggest  these  remains  represent  narrow  linear  field  systems  of  likely  medieval  date  . ","label":[[26,43,"Artefact"],[125,134,"Time Period"]]}
+{"id":922,"text":"1.3.5  Post-medieval  (  AD1550-AD1900  )  The  existing  Manor  Farm  (  c.30m  to  the  west  of  the  proposed  cemetery  extension  )  was  built  in  1870  ,  replacing  an  earlier  building  . ","label":[[7,21,"Time Period"],[25,39,"Time Period"],[58,70,"Location"],[155,160,"Time Period"]]}
+{"id":923,"text":"Much  of  its  surrounding  land  was  used  for  agriculture  during  this  period  . ","label":[]}
+{"id":924,"text":"The  tithe  map  of  1844  indicates  that  much  of  the  land  around  the  farm  was  worked  in  long  narrow  strips  (  Dyer  1998  )  . ","label":[[21,27,"Time Period"],[132,138,"Time Period"]]}
+{"id":925,"text":"A  post-medieval  water  cistern  was  discovered  nearby  (  c.100m  south  of  the  proposed  cemetery  extension  )  during  construction  of  a  car  park  adjacent  to  Butterfield  Green  Road  (  HER14069  )  . ","label":[[3,17,"Time Period"],[174,198,"Location"]]}
+{"id":926,"text":"It  is  likely  to  have  dated  to  the  early  19d  `  century  and  been  used  for  agricultural  purposes  . ","label":[[49,64,"Time Period"]]}
+{"id":927,"text":"A  dove  house  (  HER12358  )  is  known  to  have  existed  c.200m  south  of  the  proposed  cemetery  extension  . ","label":[]}
+{"id":928,"text":"1.3.6  Modern  (  AD1900-present  )  Manor  Farm  has  grown  considerably  during  this  period  with  modern  farming  methods  leading  to  the  removal  of  many  of  the  post  -  medieval  field  boundaries  . ","label":[[7,14,"Time Period"],[18,32,"Time Period"],[37,49,"Location"],[176,193,"Time Period"]]}
+{"id":929,"text":"Land  use  has  changed  to  the  west  with  the  expansion  of  nearby  Stopsley  in  Luton  and  to  the  east  with  the  creation  of  the  Vale  Cemetery  . ","label":[[74,93,"Location"],[145,160,"Location"]]}
+{"id":930,"text":"1.4  Methodologies  The  Project  Design  (  Albion  Archaeology  2005  )  outlined  three  stages  of  works  ;  utilising  non-intrusive  and  intrusive  evaluation  techniques  . ","label":[[66,72,"Time Period"]]}
+{"id":931,"text":"These  comprised  fieldwalking  ,  geophysical  survey  and  trial  trenching  . ","label":[]}
+{"id":932,"text":"1.5  Professional  Standards  Throughout  the  project  the  standards  set  out  in  the  following  documents  were  adhered  to  :  o  Albion  Archaeology  's  Procedures  Manual  :  Volume  1  Fieldwork  (  2nd  ed  ,  2001  )  . ","label":[[223,229,"Time Period"]]}
+{"id":935,"text":"FIELDWALKING  2.1  Introduction  Fieldwalking  was  undertaken  in  March  2005  ,  as  the  first  part  of  the  evaluation  . ","label":[[75,81,"Time Period"]]}
+{"id":936,"text":"It  is  a  survey  technique  involving  the  systematic  recovery  of  artefacts  from  the  ground  surface  . ","label":[]}
+{"id":937,"text":"The  distribution  of  artefacts  ,  especially  the  identification  of  concentrations  ,  may  indicate  the  location  of  past  human  activity  . ","label":[]}
+{"id":938,"text":"Given  suitable  conditions  (  including  soil  ,  weathering  ,  crop  growth  and  light  )  ,  artefacts  can  be  seen  within  ploughed  soil  . ","label":[]}
+{"id":939,"text":"They  are  present  because  cultivation  over  buried  archaeological  features\/deposits  results  in  the  movement  of  artefacts  into  the  overlying  plough  soil  . ","label":[]}
+{"id":940,"text":"The  purpose  of  the  fieldwalking  was  to  systematically  collect  artefacts  from  the  surface  of  the  development  area  . ","label":[]}
+{"id":941,"text":"The  survey  sought  to  identify  significant  clusters  of  artefacts  ,  indicative  of  past  human  occupation  or  other  activity  . ","label":[]}
+{"id":942,"text":"The  fieldwalking  was  carried  out  by  experienced  Albion  Archaeology  staff  . ","label":[]}
+{"id":943,"text":"The  single  significant  concentration  of  artefacts  was  targeted  during  the  detailed  geophysical  survey  (  Section  3.0  )  . ","label":[]}
+{"id":944,"text":"2.2  Method  Statement  The  c.4ha  development  area  was  walked  on  17th  March  2005  . ","label":[[85,91,"Time Period"]]}
+{"id":945,"text":"At  the  time  of  walking  weather  conditions  were  dry  and  bright  . ","label":[]}
+{"id":946,"text":"Ground  cover  consisted  of  a  thin  crop  and  a  weathered  harrowed  surface  ,  providing  ideal  conditions  for  this  type  of  survey  . ","label":[]}
+{"id":947,"text":"Collection  units  comprised  20m  wide  transects  marked  with  different  coloured  flags  . ","label":[]}
+{"id":948,"text":"This  enabled  clearly  visible  ,  coloured  transects  to  be  walked  by  individuals  who  collected  artefactual  material  from  a  2.0m  wide  strip  . ","label":[]}
+{"id":949,"text":"Findspots  were  then  located  on  the  Ordnance  Survey  National  Grid  using  differential  GPS  survey  equipment  . ","label":[]}
+{"id":950,"text":"This  was  undertaken  in  order  to  ensure  that  artefact  concentrations  could  be  accurately  located  in  any  subsequent  stages  of  evaluation  . ","label":[]}
+{"id":951,"text":"2.3  Results  A  summary  of  the  results  of  the  survey  is  presented  below  ;  detailed  information  on  all  the  artefacts  recovered  is  contained  in  Appendix  2  . ","label":[]}
+{"id":952,"text":"The  field  artefact  collection  produced  a  range  of  artefacts  including  flint  ,  pottery  ,  building  materials  ,  glass  etc  . ","label":[[80,87,"Artefact"],[90,99,"Artefact"],[102,121,"Artefact"],[126,133,"Artefact"]]}
+{"id":953,"text":"The  distribution  of  these  artefacts  is  illustrated  in  Figure  2  . ","label":[]}
+{"id":954,"text":"The  most  significant  concentration  was  a  dispersed  cluster  of  medieval  sherds  in  the  western  half  of  the  site  ,  next  to  the  Butterfield  Green  Road  . ","label":[[71,80,"Time Period"],[81,88,"Artefact"],[146,171,"Location"]]}
+{"id":955,"text":"It  also  demonstrated  the  presence  of  finds  typical  of  agricultural  activity  ,  such  as  post  -  medieval  ceramic  building  material  ,  slag  and  modern  pottery  . ","label":[[100,117,"Time Period"],[119,128,"Material"],[128,146,"Artefact"],[151,156,"Artefact"],[162,169,"Time Period"],[170,178,"Artefact"]]}
+{"id":957,"text":"GEOPHYSICAL  SURVEY  3.1  Introduction  Changes  in  magnetic  responses  below  the  ploughsoil  can  indicate  variations  in  the  subsoil\/geology  some  of  which  may  be  associated  with  buried  archaeological  features  . ","label":[]}
+{"id":958,"text":"The  means  by  which  these  variations  are  identified  and  located  is  known  as  a  geophysical  survey  . ","label":[]}
+{"id":959,"text":"Geophysical  surveys  are  particularly  effective  in  locating  ditch  es  and  large  pits  ,  but  can  not  always  locate  smaller  features  such  as  postholes  and  small  pits  . ","label":[[66,75,"Context"],[82,93,"Context"],[158,169,"Context"],[174,185,"Context"]]}
+{"id":960,"text":"This  means  that  the  absence  of  evidence  provided  by  a  geophysical  survey  can  not  be  taken  as  a  categorical  indication  of  the  absence  of  archaeological  features  . ","label":[]}
+{"id":961,"text":"3.2  Method  Statement  A  specialist  contractor  ,  West  Yorkshire  Archaeological  Services  (  WYAS  )  ,  undertook  the  geophysical  survey  . ","label":[[54,69,"Location"]]}
+{"id":962,"text":"This  was  carried  out  in  two  stages  :  3.2.1  Stage  1  The  first  stage  of  work  involved  the  use  of  magnetic  susceptibility  as  a  method  for  the  scanning  of  the  study  area  . ","label":[]}
+{"id":963,"text":"This  stage  of  works  is  designed  to  pick  up  anomalies  worthy  of  more  detailed  attention  in  the  following  detailed  survey  (  Stage  2  )  . ","label":[]}
+{"id":964,"text":"The  scanning  survey  was  undertaken  on  29th  March  2005  and  covered  an  area  of  approximately  4.5  hectares  . ","label":[[57,63,"Time Period"]]}
+{"id":965,"text":"3.2.2  Stage  2  This  stage  consisted  of  a  detailed  geophysical  survey  on  the  30th  March  2005  . ","label":[[101,107,"Time Period"]]}
+{"id":966,"text":"A  total  of  1.5ha  (  40  %  )  of  the  site  was  subject  to  detailed  geophysical  survey  . ","label":[]}
+{"id":967,"text":"The  limited  results  of  the  fieldwalking  meant  that  the  location  of  detailed  survey  was  based  primarily  on  the  scanning  (  Stage  1  )  . ","label":[]}
+{"id":968,"text":"3.3  Results  Areas  of  enhanced  magnetic  response  were  located  within  Stage  1  . ","label":[]}
+{"id":969,"text":"Further  detailed  survey  in  Stage  2  indicated  these  anomalies  were  likely  to  be  geological  rather  than  archaeological  in  origin  . ","label":[]}
+{"id":970,"text":"The  failure  to  locate  archaeological  anomalies  may  have  been  due  to  the  geologically  enhanced  areas  masking  archaeological  features  that  may  have  given  weaker  responses  . ","label":[]}
+{"id":972,"text":"TRIAL  TRENCHING  4.1  Aims  and  Method  Statement  The  trench  plan  (  Figure  3  )  was  discussed  with  ,  and  approved  by  ,  BCC  's  AO  prior  to  any  trial  trenching  taking  place  . ","label":[]}
+{"id":973,"text":"Some  changes  were  made  to  the  original  trench  plan  ,  due  to  the  existence  of  live  overhead  services  within  the  development  area  . ","label":[]}
+{"id":974,"text":"The  trial  trenching  took  place  between  18th  April  and  16th  May  2005  . ","label":[[74,80,"Time Period"]]}
+{"id":975,"text":"The  trenches  were  designed  to  :  +  determine  the  location  ,  extent  ,  nature  and  date  of  any  archaeological  features  or  deposits  that  were  present  . ","label":[]}
+{"id":976,"text":"+  obtain  information  on  the  integrity  and  state  of  preservation  of  any  archaeological  features  or  deposits  that  were  present  . ","label":[]}
+{"id":977,"text":"+  test  anomalies  ,  blank  areas  and  potential  areas  of  archaeological  interest  identified  during  the  non-intrusive  stages  (  geophysical  survey  and  fieldwalking  )  of  the  evaluation  . ","label":[]}
+{"id":978,"text":"The  location  of  all  trenches  was  marked  out  on  the  ground  in  advance  of  machine  excavation  using  differential  GPS  survey  equipment  . ","label":[]}
+{"id":979,"text":"Topsoil  and  modern  overburden  were  mechanically  removed  by  a  tracked  excavator  ,  fitted  with  a  toothless  ditching  bucket  and  operating  under  close  archaeological  supervision  . ","label":[[14,21,"Time Period"]]}
+{"id":980,"text":"These  deposits  were  removed  down  to  the  top  of  the  archaeological  deposits  ,  or  undisturbed  geological  deposits  ,  whichever  was  encountered  first  . ","label":[]}
+{"id":981,"text":"The  spoil  heaps  were  scanned  for  artefacts  . ","label":[]}
+{"id":982,"text":"The  bases  and  sections  of  all  trenches  were  cleaned  by  hand  . ","label":[]}
+{"id":983,"text":"The  deposits  and  any  potential  archaeological  features  were  noted  ,  cleaned  ,  excavated  by  hand  and  recorded  using  Albion  Archaeology  's  pro  forma  sheets  . ","label":[]}
+{"id":984,"text":"The  trenches  were  subsequently  drawn  ,  and  photographed  as  appropriate  . ","label":[]}
+{"id":985,"text":"All  deposits  were  recorded  using  a  unique  recording  number  sequence  commencing  at  100  for  Trench  1  ,  200  for  Trench  2  etc  . ","label":[]}
+{"id":986,"text":"The  trenches  were  inspected  on  two  occasions  by  BCC  's  AO  prior  to  being  backfilled  . ","label":[]}
+{"id":987,"text":"4.2  Results  Deposits  and  features  of  archaeological  interest  are  summarised  below  in  chronological  order  and  by  feature  type  . ","label":[]}
+{"id":988,"text":"Further  detailed  descriptions  can  be  found  in  Appendix  1  . ","label":[]}
+{"id":989,"text":"No  archaeological  features  were  encountered  in  Trenches  9  ,  11  and  15  . ","label":[]}
+{"id":990,"text":"Detailed  descriptions  of  the  deposits  encountered  in  these  trenches  are  also  included  in  Appendix  1  . ","label":[]}
+{"id":992,"text":"Subsoil  deposits  (  101  )  ,  (  201  )  ,  (  301  )  ,  (  401  )  ,  (  501  )  ,  (  601  )  ,  (  701  )  ,  (  801  )  ,  (  901  )  ,  (  1001  )  ,  (  1101  )  ,  (  1201  )  ,  (  1301  )  ,  (  1401  )  (  1501  )  were  less  uniform  and  varied  from  0.10m  to  0.30m  deep  . ","label":[]}
+{"id":993,"text":"These  deposits  were  slightly  shallower  in  the  southern  part  of  the  site  . ","label":[]}
+{"id":994,"text":"With  the  exception  of  modern  feature  [  503  ]  (  Trench  5  )  all  features  described  below  were  sealed  by  subsoil  . ","label":[[26,33,"Time Period"]]}
+{"id":995,"text":"This  stratigraphic  position  often  suggests  that  features  are  of  considerable  antiquity  . ","label":[]}
+{"id":996,"text":"The  undisturbed  geological  deposit  was  a  red  orange  sandy  clay  with  frequent  large  stones  (  102  )  ,  (  202  )  ,  (  302  )  ,  (  402  )  ,  (  502  )  ,  (  602  )  ,  (  702  )  ,  (  802  )  ,  (  902  )  ,  (  1002  )  ,  (  1102  )  ,  (  1202  )  ,  (  1302  )  ,  (  1402  )  ,  (  1502  )  . ","label":[]}
+{"id":997,"text":"4.4  Early-Middle  Iron  Age  4.4.1  Ditches  (  Figures  3  ,  4  and  5  )  Four  ditches  [  703  ]  ,  [  705  ]  ,  [  708  ]  and  [  205  ]  all  aligned  broadly  NNW  -  SSE  produced  pottery  dating  to  the  early-middle  Iron  Age  . ","label":[[5,29,"Time Period"],[37,46,"Context"],[84,93,"Context"],[194,202,"Artefact"],[220,244,"Time Period"]]}
+{"id":998,"text":"A  fifth  ditch  [  203  ]  has  been  dated  to  this  period  on  the  basis  of  its  stratigraphic  relationship  to  [  205  ]  (  Figure  6  ,  sections  1  and  2  )  . ","label":[[10,16,"Context"]]}
+{"id":999,"text":"All  five  ditches  were  located  in  the  western  part  of  the  development  area  ,  c.65m  east  of  Butterfield  Green  Road  . ","label":[[11,19,"Context"],[107,132,"Location"]]}
+{"id":1000,"text":"Ditch  es  [  205  ]  ,  [  705  ]  and  [  703  ]  were  of  similar  proportions  measuring  c.  1.50m  in  width  and  0.35m  deep  . ","label":[[0,9,"Context"]]}
+{"id":1001,"text":"Ditch  [  708  ]  was  significantly  smaller  measuring  only  0.60m  wide  and  0.18m  deep  . ","label":[[0,6,"Context"]]}
+{"id":1002,"text":"The  deposits  within  these  ditches  consisted  of  firm  brown  silty  clay  with  charcoal  flecking  . ","label":[[30,38,"Context"]]}
+{"id":1003,"text":"Ditch  [  705  ]  contained  two  deposits  (  706  )  (  707  )  ,  both  of  which  produced  relatively  large  amounts  of  early-middle  Iron  Age  pottery  (  Appendix  2  )  . ","label":[[0,6,"Context"],[128,152,"Time Period"],[153,161,"Artefact"]]}
+{"id":1004,"text":"The  deposits  within  ditches  [  708  ]  and  [  712  ]  also  contained  pottery  of  this  date  ,  albeit  in  much  smaller  quantities  . ","label":[[23,31,"Context"],[76,84,"Artefact"]]}
+{"id":1005,"text":"Two  of  the  four  excavated  segments  (  [  205  ]  \/  [  703  ]  ,  (  Figures  3  and  4  )  appear  to  have  been  part  of  the  same  ditch  alignment  . ","label":[[143,150,"Context"]]}
+{"id":1006,"text":"Excavation  of  ditch  [  205  ]  revealed  the  remains  of  an  earlier  ditch  [  203  ]  which  may  represent  an  earlier  cut  of  the  same  linear  . ","label":[[16,23,"Context"],[75,82,"Context"]]}
+{"id":1007,"text":"4.5  Late  Iron  Age  4.5.1  Ditches  (  Figures  3,4  and  5  )  Two  ditches  [  1003  ]  ,  [  1005  ]  were  recorded  in  the  western  part  of  the  development  area  . ","label":[[5,21,"Time Period"],[29,38,"Context"],[71,80,"Context"]]}
+{"id":1008,"text":"Ditch  [  1003  ]  was  aligned  NE  -  SW  and  was  c.2.25m  wide  and  0.48m  deep  . ","label":[[0,7,"Context"]]}
+{"id":1009,"text":"It  contained  a  silty  clay  deposit  (  1004  )  ,  from  which  late  Iron  Age  pottery  sherds  were  recovered  (  Appendix  2  )  . ","label":[[68,83,"Time Period"],[85,100,"Artefact"]]}
+{"id":1011,"text":"It  contained  a  deposit  (  1006  )  similar  in  character  to  (  1004  )  ,  although  no  dateable  artefactual  material  was  recovered  . ","label":[]}
+{"id":1012,"text":"Despite  this  ,  a  late  Iron  Age  date  can  be  inferred  for  this  feature  due  to  its  proximity  to  ditch  [  1003  ]  and  the  notable  similarity  in  the  character  of  deposits  within  the  features  . ","label":[[21,37,"Time Period"],[112,118,"Context"]]}
+{"id":1013,"text":"Such  similarities  and  close  proximity  indicate  these  features  may  be  part  of  a  contemporary  field  system  . ","label":[]}
+{"id":1014,"text":"These  ditches  were  located  c.20m  south  of  the  early-middle  Iron  Age  remains  described  above  (  Section  4.5  )  . ","label":[[7,15,"Context"],[54,78,"Time Period"]]}
+{"id":1015,"text":"4.6  Roman  4.6.1  Ditches  (  Figures  3  ,  4  and  5  )  Trenches  12  and  13  revealed  four  ditches  of  possible  Roman  date  . ","label":[[5,11,"Time Period"],[19,27,"Context"],[99,107,"Context"],[122,128,"Time Period"]]}
+{"id":1016,"text":"Ditches  [  1206  ]  and  [  1208  ]  were  parallel  and  aligned  ENE  to  WNW  . ","label":[[0,8,"Context"]]}
+{"id":1017,"text":"Ditch  [  1206  ]  was  0.62m  wide  and  0.17m  deep  (  Figure  6  ,  section  3  )  ;  ditch  [  1208  ]  was  0.33m  wide  and  0.09m  deep  . ","label":[[0,7,"Context"],[90,95,"Context"]]}
+{"id":1018,"text":"They  were  approximately  1  m  apart  ,  perhaps  indicating  that  they  originally  lay  either  side  of  a  hedgerow  rather  than  bounding  a  trackway  . ","label":[]}
+{"id":1019,"text":"A  NNW  to  SSE  aligned  ditch  in  Trench  13  [  1303  ]  ,  [  1305  ]  ,  [  1309  ]  and  [  1307  ]  was  c.0.50m  wide  and  0.25m  deep  ;  it  terminated  within  the  trench  . ","label":[[26,32,"Context"]]}
+{"id":1020,"text":"It  is  likely  that  this  forms  part  of  the  same  field  boundary  as  [  1206  ]  . ","label":[]}
+{"id":1021,"text":"The  remains  of  an  earlier  ditch  [  1311  ]  were  evident  within  one  of  the  excavated  segments  . ","label":[[31,38,"Context"]]}
+{"id":1022,"text":"The  fourth  ditch  [  1315  ]  [  1317  ]  [  1313  ]  was  aligned  NE  to  SW  and  was  intersected  by  the  terminal  of  [  1307  ]  which  cut  through  its  deposits  (  1314  )  ,  (  1316  )  and  (  1318  )  . ","label":[[13,20,"Context"]]}
+{"id":1023,"text":"It  was  0.70m  wide  and  0.16m  deep  . ","label":[]}
+{"id":1024,"text":"The  fills  of  these  ditches  (  1304  )  ,  (  1306  )  ,  (  1308  )  ,  (  1310  )  ,  (  1312  )  ,  (  1314  )  ,  (  1316  )  and  (  1318  )  consisted  of  naturally  derived  clay  silts  . ","label":[[23,31,"Context"]]}
+{"id":1025,"text":"A  small  number  of  Roman  pottery  sherds  were  recovered  from  (  1306  )  and  (  1308  )  . ","label":[[22,29,"Time Period"],[29,44,"Artefact"]]}
+{"id":1026,"text":"It  is  likely  that  these  ditches  represent  a  field  system  which  has  seen  at  least  two  phases  of  modification  . ","label":[[29,37,"Context"]]}
+{"id":1027,"text":"Despite  being  on  a  similar  alignment  to  medieval  ditches  immediately  to  the  west  and  north-west  ,  these  features  did  not  produce  any  medieval  artefacts  (  Section  5.8  )  . ","label":[[57,65,"Context"],[155,164,"Time Period"]]}
+{"id":1028,"text":"4.7  Medieval  4.7.1  Field  systems  (  Figures  3  ,  4  and  5  )  Field  systems  of  medieval  date  were  encountered  in  the  western  and  south-western  parts  of  the  development  area  . ","label":[[5,14,"Time Period"],[90,99,"Time Period"]]}
+{"id":1029,"text":"They  were  aligned  broadly  NNW  to  SSE  and  WSW  to  ENE  ,  making  them  perpendicular  to  Butterfield  Green  Road  . ","label":[[99,123,"Location"]]}
+{"id":1030,"text":"The  majority  of  the  ditches  [  211  ]  ,  [  603  ]  ,  [  607  ]  ,  [  803  ]  and  [  1403  ]  ranged  in  size  from  0.32m  to  0.91m  wide  and  0.13m  to  0.27m  deep  (  Figure  6  ,  section  4  )  . ","label":[[24,33,"Context"]]}
+{"id":1032,"text":"The  single  deposits  within  most  of  the  ditch  es  consisted  of  silty  clay  (  212  )  ,  (  604  )  ,  (  606  )  ,  (  713  )  ,  (  608  )  ,  (  804  )  and  (  1404  )  . ","label":[[46,55,"Context"]]}
+{"id":1033,"text":"Only  ditch  [  1203  ]  contained  two  deposits  (  1204  )  and  (  1205  )  . ","label":[[6,13,"Context"]]}
+{"id":1034,"text":"A  substantial  amount  of  late  medieval  \/  post-medieval  pottery  ,  roof  tile  and  a  quantity  of  animal  bone  was  recovered  from  deposit  (  606  )  within  [  605  ]  and  deposit  (  1205  )  within  [  1203  ]  . ","label":[[28,43,"Time Period"],[47,61,"Time Period"],[62,71,"Artefact"],[74,84,"Artefact"],[108,120,"Artefact"]]}
+{"id":1035,"text":"A  lesser  amount  of  pottery  and  tile  of  the  same  date  was  recovered  from  ditch  [  712  ]  (  713  )  . ","label":[[23,32,"Artefact"],[37,43,"Artefact"],[86,91,"Context"]]}
+{"id":1036,"text":"Fragments  of  roof  tile  were  recovered  from  [  803  ]  (  804  )  (  Appendix  2  )  . ","label":[[15,26,"Artefact"]]}
+{"id":1037,"text":"A  small  amount  of  residual  late  Bronze  Age  \/  early  Iron  Age  pottery  and  a  flint  flake  were  recovered  from  ditch  [  603  ]  . ","label":[[32,50,"Time Period"],[54,71,"Time Period"],[72,80,"Artefact"],[89,94,"Material"],[96,103,"Artefact"],[126,133,"Context"]]}
+{"id":1038,"text":"4.8  Modern  4.8.1  Plough  marks  (  Figures  3  and  5  )  Several  NNW  -  SSE  aligned  plough  marks  [  1503  ]  and  [  1505  ]  were  recorded  in  Trench  15  . ","label":[[5,12,"Time Period"],[20,33,"Context"],[92,105,"Context"]]}
+{"id":1039,"text":"These  truncated  the  undisturbed  geological  deposit  (  1502  )  and  are  thought  to  be  the  result  of  modern  ,  `  deep  '  ploughing  . ","label":[[113,120,"Time Period"]]}
+{"id":1040,"text":"4.8.2  Modern  pit  (  Figures  3  and  5  )  A  modern  pit  (  [  503  ]  )  was  observed  in  Trench  5  . ","label":[[7,14,"Time Period"],[49,56,"Time Period"]]}
+{"id":1041,"text":"It  truncated  subsoil  (  501  )  confirming  its  relatively  recent  origin  . ","label":[]}
+{"id":1042,"text":"4.9  Undated  4.9.1  Pits  (  Figures  3  ,  4  and  5  )  A  number  of  undated  pits  [  103  ]  [  303  ]  [  807  ]  [  809  ]  ,  [  811  ]  [  813  ]  ,  [  1009  ]  ,  [  1013  ]  were  observed  within  the  development  area  . ","label":[[21,27,"Context"],[83,89,"Context"]]}
+{"id":1043,"text":"These  varied  in  size  from  0.30m  to  1  . ","label":[]}
+{"id":1044,"text":"00m  in  diameter  and  0.18m  to  0.30m  in  depth  . ","label":[]}
+{"id":1045,"text":"The  deposits  contained  within  these  features  (  104  )  (  304  )  (  808  )  ,  (  810  )  ,  (  812  )  ,  (  814  )  ,  (  1010  )  ,  (  1014  )  consisted  of  naturally  derived  clay  silts  suggesting  that  they  are  likely  to  be  of  a  natural  rather  than  archaeological  origin  . ","label":[]}
+{"id":1046,"text":"4.9.2  Tree  throws  and  root  disturbance  (  Figure  3  ,  4  and  5  )  Numerous  tree  throws  and  areas  of  root  disturbance  [  207  ]  ,  [  209  ]  ,  [  213  ]  ,  [  305  ]  ,  [  403  ]  ,  [  405  ]  ,  [  407  ]  ,  [  505  ]  ,  [  507  ]  ,  [  609  ]  ,  [  611  ]  [  710  ]  ,  [  805  ]  ,  [  1007  ]  ,  [  1011  ]  were  observed  throughout  the  development  area  . ","label":[]}
+{"id":1047,"text":"These  contained  naturally  derived  silt  deposits  . ","label":[]}
+{"id":1049,"text":"SYNTHESIS  5.1  Discussion  The  evaluation  has  demonstrated  the  presence  of  Iron  Age  ,  Roman  and  medieval  remains  within  the  development  area  . ","label":[[83,93,"Time Period"],[97,103,"Time Period"],[109,118,"Time Period"]]}
+{"id":1050,"text":"Artefacts  recovered  during  the  fieldwalking  had  indicated  that  the  western  part  of  the  site  was  an  area  of  archaeological  potential  . ","label":[]}
+{"id":1051,"text":"This  was  supported  by  trial  trenching  which  demonstrated  the  presence  of  features  within  this  area  ,  rather  than  the  eastern  part  of  the  site  . ","label":[]}
+{"id":1052,"text":"Ditches  [  703  ]  ,  [  705  ]  ,  [  708  ]  and  [  205  ]  in  the  western  part  of  the  site  ,  dating  to  the  early-middle  Iron  Age  ,  contained  significant  amounts  of  pottery  indicating  the  likely  presence  of  settlement  during  this  period  . ","label":[[0,8,"Context"],[123,147,"Time Period"],[188,197,"Artefact"]]}
+{"id":1053,"text":"Intercutting  ditches  [  205  ]  and  [  203  ]  ,  also  suggest  that  this  may  have  had  some  longevity  . ","label":[[14,22,"Context"]]}
+{"id":1054,"text":"In  addition  ,  remains  further  to  the  south  [  1003  ]  and  [  1005  ]  indicate  settlement  dating  to  the  later  Iron  Age  ,  possibly  suggesting  a  shift  in  settlement  . ","label":[[119,136,"Time Period"]]}
+{"id":1055,"text":"At  least  two  phases  of  field  systems  of  likely  Roman  date  [  1206  ]  ,  [  1208  ]  ,  [  1303  ]  ,  [  1305  ]  ,  [  1309  ]  ,  [  1307  ]  ,  [  1315  ]  ,  [  1317  ]  and  [  1313  ]  indicate  another  period  of  activity  on  the  site  . ","label":[[56,62,"Time Period"]]}
+{"id":1056,"text":"However  ,  a  similarity  in  alignment  to  medieval  field  systems  to  the  north-west  raises  the  possibility  that  the  small  amounts  of  Roman  pottery  from  these  features  might  be  residual  . ","label":[[46,55,"Time Period"],[150,156,"Time Period"],[157,166,"Artefact"]]}
+{"id":1057,"text":"However  ,  if  medieval  ,  it  would  be  expected  that  these  ditches  would  have  contained  similar  amounts  of  pottery  and  tile  to  those  ditches  definitely  datable  to  the  medieval  period  . ","label":[[16,25,"Time Period"],[67,75,"Context"],[122,131,"Artefact"],[136,142,"Artefact"],[153,161,"Context"],[192,201,"Time Period"]]}
+{"id":1058,"text":"Medieval  ditches  in  the  western  part  of  the  site  [  211  ]  ,  [  603  ]  ,  [  607  ]  ,  [  803  ]  ,  [  1403  ]  ,  [  605  ]  ,  [  712  ]  and  [  1203  ]  ,  extending  at  least  125m  from  Butterfield  Green  Road  ,  are  likely  to  be  field  boundaries  related  to  the  nearby  site  of  Hayes  Manor  . ","label":[[0,9,"Time Period"],[10,18,"Context"],[208,233,"Location"],[313,326,"Location"]]}
+{"id":1059,"text":"They  are  aligned  perpendicular  to  the  road  and  are  comparable  to  the  strip  fields  indicated  on  the  tithe  map  of  1844  (  Dyer  1998  )  . ","label":[[132,138,"Time Period"],[147,153,"Time Period"]]}
+{"id":1060,"text":"It  is  likely  that  larger  ditches  [  605  ]  ,  [  712  ]  and  [  1203  ]  represent  field  boundaries  separated  into  smaller  strips  by  smaller  gullies  [  211  ]  ,  [  603  ]  ,  [  607  ]  ,  [  803  ]  ,  [  1403  ]  . ","label":[[30,38,"Context"]]}
+{"id":1061,"text":"The  quantities  of  pottery  from  the  ditch  fills  suggest  nearby  settlement  ,  perhaps  even  closer  than  Hayes  Manor  . ","label":[[21,30,"Artefact"],[41,47,"Context"],[116,129,"Location"]]}
+{"id":1062,"text":"The  large  quantity  of  roof  tile  recovered  indicates  that  building  remains  may  well  exist  within  the  development  area  . ","label":[[26,36,"Artefact"]]}
+{"id":1063,"text":"5.2  Summary  The  evaluation  has  demonstrated  the  presence  of  archaeological  features  within  the  western  part  of  the  development  area  . ","label":[]}
+{"id":1064,"text":"It  has  also  successfully  demonstrated  the  nature  and  state  of  preservation  of  these  deposits  . ","label":[]}
+{"id":1065,"text":"Multiple  period  of  activity  are  represented  from  the  early-middle  Iron  Age  and  Iron  Age  periods  through  to  the  Roman  and  medieval  periods  . ","label":[[61,109,"Time Period"],[129,158,"Time Period"]]}
+{"id":1066,"text":"Artefacts  recovered  from  the  deposits  within  these  features  hint  at  likely  settlement  activity  in  the  western  part  of  the  development  area  . ","label":[]}
+{"id":1067,"text":"This  is  particularly  the  case  for  the  early-middle  Iron  Age  and  medieval  periods  ,  the  remains  of  which  are  likely  to  be  of  regional  significance  . ","label":[[45,92,"Time Period"]]}
+{"id":1068,"text":"They  have  the  potential  to  contribute  to  understanding  of  the  layout  of  Butterfield  Green  both  during  the  medieval  period  and  the  much  earlier  Iron  Age  . ","label":[[84,103,"Location"],[123,139,"Time Period"],[166,176,"Time Period"]]}
+{"id":1070,"text":"BIBLIOGRAPHY  Albion  Archaeology  ,  2001  . ","label":[[38,44,"Time Period"]]}
+{"id":1071,"text":"Procedures  Manual  :  Volume  I  Fieldwork  (  2  ''  d  ed  ,  2001  )  . ","label":[]}
+{"id":1072,"text":"Albion  Archaeology  ,  2005  . ","label":[[24,30,"Time Period"]]}
+{"id":1073,"text":"Vale  Cemetery  and  Crematorium  Extension  ,  Luton  :  Project  Design  for  Archaeological  Field  Evaluation  . ","label":[[48,55,"Location"]]}
+{"id":1074,"text":"Doc  . ","label":[]}
+{"id":1075,"text":"2005\/14  Bedford  Museum  ,  1998  . ","label":[[29,35,"Time Period"]]}
+{"id":1076,"text":"Preparing  Archaeological  Archives  for  Deposition  in  Registered  Museums  in  Bedfordshire  Carew  ,  T.  2004  . ","label":[[83,97,"Location"],[111,117,"Time Period"]]}
+{"id":1077,"text":"An  Archaeological  Evaluation  at  Butterfield  Green  ,  Luton  ,  Bedfordshire  . ","label":[[36,81,"Location"]]}
+{"id":1078,"text":"Pre  Construct  Archaeology  Ltd.  Dyer  ,  J  . ","label":[]}
+{"id":1079,"text":"1998  . ","label":[[0,6,"Time Period"]]}
+{"id":1080,"text":"The  Stopsley  Book  . ","label":[]}
+{"id":1081,"text":"The  Book  Castle  . ","label":[]}
+{"id":1082,"text":"English  Heritage  ,  1991  . ","label":[[22,28,"Time Period"]]}
+{"id":1083,"text":"The  Management  of  Archaeological  Projects  English  Heritage  ,  1995  . ","label":[[69,75,"Time Period"]]}
+{"id":1084,"text":"Geophysical  Survey  in  Archaeological  Field  Evaluation  Hudspith  ,  R.  1993  . ","label":[[77,83,"Time Period"]]}
+{"id":1085,"text":"`  Fieldwalking  at  Streatley  ,  Lilley  and  North  Luton  1991-92  '  . ","label":[[21,32,"Location"],[35,43,"Location"],[48,60,"Location"],[62,69,"Time Period"]]}
+{"id":1086,"text":"South  Midlands  Archaeology  23  ,  26-28  . ","label":[[0,15,"Location"]]}
+{"id":1087,"text":"CBA  South  Midlands  Group  . ","label":[[5,20,"Location"]]}
+{"id":1088,"text":"IFA  1999a  Institute  of  Field  Archaeologists  ,  Standards  and  Guidance  documents  (  Desk  based  Assessments  ,  Watching  Briefs  ,  Evaluations  ,  Excavations  ,  Investigation  and  Recording  of  Standing  Buildings  . ","label":[]}
+{"id":1089,"text":"IFA  1999b  Institute  of  Field  Archaeologists  Code  of  Conduct  IFA  1999  Guidelines  for  Finds  Work  . ","label":[[74,80,"Time Period"]]}
+{"id":1090,"text":"NA  (  Northamptonshire  Archaeology  )  2004  . ","label":[[7,25,"Location"],[41,47,"Time Period"]]}
+{"id":1091,"text":"Geophysical  Survey  at  Butterfield  Green  ,  Luton  ,  Bedfordshire  . ","label":[[25,70,"Location"]]}
+{"id":1092,"text":"Taylor  ,  A  . ","label":[]}
+{"id":1093,"text":"1988  . ","label":[[0,6,"Time Period"]]}
+{"id":1094,"text":"South  East  Cambridgeshire  and  the  Fen  Edge  . ","label":[[0,27,"Location"],[39,48,"Location"]]}
+{"id":1097,"text":"1  :  TL1045024708  Ref  . ","label":[]}
+{"id":1098,"text":"2  :  TL1049524720  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1100,"text":"1  :  TL1050524703  Ref  . ","label":[]}
+{"id":1104,"text":"1  :  TL1054324728  Ref  . ","label":[]}
+{"id":1105,"text":"2  :  TL1058824740  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1107,"text":"1  :  TL1060324731  Ref  . ","label":[]}
+{"id":1108,"text":"2  :  TL1058624709  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1110,"text":"1  :  TL1063424744  Ref  . ","label":[]}
+{"id":1111,"text":"2  :  TL1064424697  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1113,"text":"1  :  TL1047124668  Ref  . ","label":[]}
+{"id":1114,"text":"2  :  TL1049124624  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1116,"text":"1  :  TL1048224673  Ref  . ","label":[]}
+{"id":1117,"text":"2  :  TL1053224675  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1119,"text":"1  :  TL1055924654  Ref  . ","label":[]}
+{"id":1120,"text":"2  :  TL1058724700  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1125,"text":"1  :  TL1060924685  Ref  . ","label":[]}
+{"id":1126,"text":"2  :  TL1065424625  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1128,"text":"1  :  TL1051024648  Ref  . ","label":[]}
+{"id":1129,"text":"2  :  TL1055324625  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1131,"text":"1  :  TL1061024630  Ref  . ","label":[]}
+{"id":1132,"text":"2  :  TL1065824640  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1134,"text":"1  :  TL1055824593  Ref  . ","label":[]}
+{"id":1135,"text":"2  :  TL1051024599  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1137,"text":"1  :  TL1057924628  Ref  . ","label":[]}
+{"id":1138,"text":"2  :  TL1058524599  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1140,"text":"1  :  TL1056724561  Ref  . ","label":[]}
+{"id":1144,"text":"1  :  TL1064124612  Ref  . ","label":[]}
+{"id":1145,"text":"2  :  TL1066724598  Reason  :  To  assess  archaeological  potential  of  area  . ","label":[]}
+{"id":1147,"text":"Finds  were  cleaned  ,  weighed  and  quantified  by  type  and  date  . ","label":[]}
+{"id":1148,"text":"The  resulting  information  was  entered  onto  an  Access  database  which  was  used  for  plotting  the  survey  results  as  dot-density  distributions  (  Figure  2  )  . ","label":[]}
+{"id":1149,"text":"7.2.1.2  Pottery  Ten  pottery  sherds  weighing  54g  were  recovered  ,  ranging  in  date  from  the  early  medieval  to  post-medieval  periods  (  Table  1  )  . ","label":[[9,18,"Artefact"],[23,38,"Artefact"],[94,148,"Time Period"]]}
+{"id":1150,"text":"All  sherds  are  too  small  (  average  sherd  weight  5g  )  to  allow  vessel  form  to  be  identified  . ","label":[[5,12,"Artefact"]]}
+{"id":1151,"text":"For  a  plough  zone  assemblage  ,  the  incidence  of  abrasion  is  fairly  low  ,  although  this  may  in  part  be  due  to  the  hard-fired  and  robust  nature  of  most  fabric  types  . ","label":[]}
+{"id":1154,"text":"The  earliest  pottery  is  of  12th-13th  century  date  and  comprises  two  coarse  sand  tempered  sherds  . ","label":[[15,23,"Artefact"],[32,51,"Time Period"],[79,110,"Artefact"]]}
+{"id":1155,"text":"Three  sandy  sherds  are  broadly  datable  from  the  12th-14th  centuries  . ","label":[[14,21,"Artefact"],[56,77,"Time Period"]]}
+{"id":1156,"text":"A  single  sherd  of  late  medieval  smooth  oxidised  ware  was  also  identified  . ","label":[[11,17,"Artefact"],[22,37,"Time Period"],[38,61,"Artefact"]]}
+{"id":1157,"text":"All  are  undiagnostic  and  moderately  abraded  . ","label":[]}
+{"id":1158,"text":"Post-medieval  pottery  :  4  sherds  (  34g  )  . ","label":[[0,14,"Time Period"],[15,23,"Artefact"]]}
+{"id":1159,"text":"Post-medieval  pottery  comprises  local  glazed  earthenwares  and  a  sherd  of  Staffordshire  slipware  ,  of  17th-18th  century  date  . ","label":[[0,14,"Time Period"],[15,23,"Artefact"],[42,62,"Artefact"],[72,78,"Artefact"],[83,107,"Artefact"],[115,134,"Time Period"]]}
+{"id":1160,"text":"7.2.1.3  Flint  Seven  pieces  of  worked  flint  (  55g  )  and  two  pieces  of  unmodified  burnt  flint  (  70g  )  were  identified  (  Table  2  )  . ","label":[[9,15,"Artefact"],[35,49,"Artefact"],[83,108,"Artefact"]]}
+{"id":1161,"text":"The  former  are  all  waste  flakes  ,  fashioned  from  poor  quality  raw  material  . ","label":[[23,37,"Artefact"]]}
+{"id":1162,"text":"Most  have  sustained  edge  damage  characteristic  of  a  plough-zone  assemblage  . ","label":[]}
+{"id":1165,"text":"No  . ","label":[]}
+{"id":1167,"text":"The  brick  and  tile  fragments  and  clay  pipe  stem  are  of  post-medieval  date  ,  and  the  tinned  copper  alloy  button  of  19t  `  century  origin  . ","label":[[5,11,"Artefact"],[17,32,"Artefact"],[39,45,"Material"],[45,51,"Artefact"],[66,80,"Time Period"],[100,121,"Material"],[123,131,"Artefact"],[135,151,"Time Period"]]}
+{"id":1168,"text":"The  pieces  of  ferrous  slag  are  undatable  ,  but  given  their  provenance  ,  are  likely  to  be  of  post-medieval  or  later  date  . ","label":[[17,26,"Material"],[26,32,"Artefact"],[110,124,"Time Period"]]}
+{"id":1171,"text":"The  material  was  scanned  to  ascertain  the  nature  ,  condition  and  ,  where  possible  ,  date  range  of  the  artefact  types  present  . ","label":[]}
+{"id":1172,"text":"No  finds  were  recovered  from  Trenches  1  ,  3  ,  9  ,  11  or  15  . ","label":[]}
+{"id":1174,"text":"These  were  examined  by  context  and  quantified  using  minimum  sherd  count  and  weight  . ","label":[[69,75,"Artefact"]]}
+{"id":1175,"text":"Sherds  are  generally  small  (  average  weight  7g  )  and  exhibit  variable  degrees  of  abrasion  . ","label":[[0,8,"Artefact"]]}
+{"id":1176,"text":"Nineteen  fabric  types  were  identified  using  common  names  and  type  codes  in  accordance  with  the  Bedfordshire  Ceramic  Type  Series  ,  held  by  Albion  Archaeology  . ","label":[[10,18,"Artefact"],[110,124,"Location"]]}
+{"id":1177,"text":"Fabrics  are  listed  below  (  Table  5  )  in  chronological  order  . ","label":[[0,9,"Artefact"]]}
+{"id":1180,"text":"The  former  is  represented  by  three  small  and  abraded  flint  and  sand  tempered  body  sherds  (  6g  )  ,  recovered  from  ditch  es  [  603  ]  ,  [  1003  ]  and  [  1203  ]  ,  Trenches  6  ,  10  and  12  respectively  . ","label":[[62,69,"Material"],[74,80,"Material"],[80,102,"Artefact"],[134,143,"Context"]]}
+{"id":1181,"text":"Ditches  [  705  ]  and  [  708  ]  ,  Trench  7  ,  yielded  fifty-four  sherds  (  374g  )  of  early  to  middle  Iron  Age  pottery  . ","label":[[0,8,"Context"],[74,81,"Artefact"],[98,136,"Time Period"]]}
+{"id":1182,"text":"Sherds  are  generally  abraded  ,  although  a  number  of  vessels  are  represented  by  more  than  one  sherd  . ","label":[[0,8,"Artefact"],[109,116,"Artefact"]]}
+{"id":1183,"text":"Fabric  types  are  predominantly  sand  tempered  ,  reflecting  the  exploitation  of  local  geology  . ","label":[]}
+{"id":1184,"text":"Both  coarse  and  fneware  vessels  are  present  ,  the  latter  including  a  vessel  with  stabbed  decoration  on  the  rim  and  shoulder  . ","label":[[6,35,"Artefact"],[81,89,"Artefact"]]}
+{"id":1185,"text":"Late  Iron  Age  pottery  is  represented  by  five  undiagnostic  grog  and  sand  tempered  sherds  (  6g  )  ,  recovered  from  ditch  [  1003  ]  ,  Trench  10  . ","label":[[0,25,"Time Period"],[67,73,"Material"],[78,84,"Material"],[84,100,"Artefact"],[132,139,"Context"]]}
+{"id":1186,"text":"The  incidence  of  Roman  pottery  is  restricted  to  Trench  13  . ","label":[[20,26,"Time Period"],[27,35,"Artefact"]]}
+{"id":1187,"text":"The  fill  of  ditches  [  1305  ]  and  [  1307  ]  contained  two  undiagnostic  sherds  (  6g  )  of  sand  tempered  coarseware  ,  and  two  abraded  sherds  (  117g  )  of  a  large  storage  vessel  (  amphora  )  . ","label":[[15,23,"Context"],[105,111,"Material"],[111,131,"Artefact"],[155,163,"Artefact"],[209,218,"Artefact"]]}
+{"id":1188,"text":"Pottery  datable  to  the  medieval  period  occurred  in  six  of  the  ten  trenches  which  contained  artefacts  . ","label":[[0,8,"Artefact"],[27,43,"Time Period"]]}
+{"id":1190,"text":"They  are  comparable  with  those  recovered  during  fieldwalking  . ","label":[]}
+{"id":1191,"text":"Diagnostic  forms  include  a  square  rim  jar  and  bowl  . ","label":[]}
+{"id":1192,"text":"Pottery  of  14th-15th  century  date  comprises  twelve  undiagnostic  sherds  (  66g  )  of  late  medieval  ,  sand  tempered  reduced  ware  ,  recovered  from  ditches  [  605  ]  ,  Trench  6  ,  and  [  1203  ]  ,  Trench  12  . ","label":[[0,8,"Artefact"],[13,32,"Time Period"],[72,80,"Artefact"],[95,110,"Time Period"],[114,120,"Material"],[120,143,"Artefact"],[165,174,"Context"]]}
+{"id":1193,"text":"Alluvium  (  401  )  and  ditch  [  605  ]  ,  Trenches  4  and  6  respectively  ,  yielded  two  undiagnostic  sherds  (  14g  )  of  smooth  oxidised  ware  . ","label":[[26,32,"Context"],[99,119,"Artefact"],[136,159,"Artefact"]]}
+{"id":1194,"text":"7.ZZ3  Other  Finds  Ceramic  roof  tile  Thirty-two  oxidised  sand  tempered  fragments  of  late  medieval  \/post-  medieval  flat  roof  tile  ,  weighing  2.2kg  were  recovered  from  ditch  es  [  605  ]  ,  [  803  ]  ,  [  1203  ]  and  [  712  ]  . ","label":[[21,30,"Material"],[30,40,"Artefact"],[64,70,"Material"],[70,89,"Artefact"],[95,127,"Time Period"],[129,145,"Artefact"],[190,199,"Context"]]}
+{"id":1195,"text":"Pieces  range  in  thickness  between  13-16mm  ,  and  the  presence  of  round  holes  on  some  fragments  indicates  the  use  of  wooden  pegs  as  a  means  of  attachment  . ","label":[]}
+{"id":1196,"text":"Ditch  [  712  ]  also  contained  two  abraded  ,  residual  tegulae  fragments  (  66g  )  ,  datable  to  the  Roman  period  . ","label":[[62,80,"Artefact"],[114,127,"Time Period"]]}
+{"id":1197,"text":"Flint  The  fill  of  ditch  [  603  ]  ,  Trench  6  ,  contained  a  crudely  fashioned  flint  flake  (  5g  )  . ","label":[[0,7,"Artefact"],[22,28,"Context"],[91,98,"Material"],[98,105,"Artefact"]]}
+{"id":1198,"text":"The  object  is  made  from  poor  quality  raw  material  and  is  quite  worn  . ","label":[]}
+{"id":1199,"text":"7.ZZ4  Ecofacts  Animal  bone  The  faunal  assemblage  comprises  three  long  bone  fragments  (  9g  )  ,  recovered  from  ditches  [  605  ]  and  [  1203  ]  (  one  and  two  fragments  respectively  )  . ","label":[[17,29,"Artefact"],[74,95,"Artefact"],[127,136,"Context"]]}
+{"id":1200,"text":"All  are  abraded  and  undiagnostic  of  species  . ","label":[]}
+{"id":1201,"text":"Environmental  samples  A  ten  litre  sample  was  taken  from  the  fill  of  pit  [  503  ]  for  the  extraction  of  charred  plant  remains  and\/or  artefacts  ,  and  was  processed  by  bulk  flotation  in  a  peroxide  solution  . ","label":[[80,85,"Context"],[122,145,"Artefact"]]}
+{"id":1202,"text":"A  flot  was  taken  on  a  300  micron  meshed  sieve  ,  and  the  residues  were  passed  through  a  5.6mm  ,  2.Omm  and  1.Omm  sieve  stack  . ","label":[]}
+{"id":1203,"text":"The  5.6mm  residues  were  sorted  for  artefacts  ,  while  the  2.Omm  and  1.Omm  residues  were  retained  unsorted  . ","label":[]}
+{"id":1204,"text":"The  flot  contains  abundant  charcoal  ,  although  this  is  too  fragmentary  to  be  useful  for  dating  . ","label":[[31,40,"Artefact"]]}
+{"id":1205,"text":"No  other  ecofacts  were  observed  in  the  flot  . ","label":[]}
+{"id":1206,"text":"All  residues  comprise  large  quantities  of  burnt  flint  ,  including  over  3.3kg  recovered  from  the  5.6mm  residue  . ","label":[[48,61,"Artefact"]]}
+{"id":1207,"text":"The  sample  has  no  potential  for  further  analysis  . ","label":[]}
+{"id":1209,"text":"Introduction  and  Archaeological  Background  2  . ","label":[]}
+{"id":1210,"text":"Methodology  and  Presentation  3  . ","label":[]}
+{"id":1211,"text":"Results  and  Discussion  4  . ","label":[]}
+{"id":1212,"text":"Conclusions  Bibliography  Acknowledgements  Figures  Appendices  Summary  A  geophysical  (  magnetometer  )  survey  comprising  magnetic  scanning  followed  by  selected  detailed  survey  was  carried  out  at  the  proposed  site  of  a  cemetery  extension  at  Butterfield  ,  north-east  of  Luton  . ","label":[[269,281,"Location"],[301,307,"Location"]]}
+{"id":1213,"text":"Areas  of  enhanced  magnetic  response  were  identified  during  the  scanning  phase  and  subsequently  confirmed  by  the  detailed  survey  . ","label":[]}
+{"id":1214,"text":"The  broad  and  discontinuous  nature  of  these  anomalies  suggests  the  cause  is  more  likely  to  be  geological  rather  than  archaeological  . ","label":[]}
+{"id":1215,"text":"These  areas  of  natural  magnetic  enhancement  are  relatively  strong  and  therefore  potentially  could  mask  weaker  responses  from  underlying  archaeological  features  . ","label":[]}
+{"id":1216,"text":"However  ,  no  anomalies  of  a  probable  archaeological  nature  have  been  identified  . ","label":[]}
+{"id":1218,"text":"Introduction  and  Archaeological  Background  1.1  Archaeological  Services  WYAS  was  commissioned  to  carry  out  a  geophysical  (  magnetometer  )  survey  adjacent  to  Vale  Cemetery  ,  Butterfield  on  the  northeastern  periphery  of  Luton  (  see  Fig  . ","label":[[196,209,"Location"],[247,254,"Location"]]}
+{"id":1219,"text":"1  )  ,  by  Drew  Shotliff  of  Albion  Archaeology  ,  on  behalf  of  Bertram  Sheppard  Ltd  for  their  client  Luton  Borough  Council  . ","label":[[117,124,"Location"]]}
+{"id":1220,"text":"The  survey  formed  part  of  a  tiered  scheme  of  archaeological  investigation  that  will  use  the  results  from  a  prior  programme  of  fieldwalking  and  those  from  the  geophysical  survey  to  determine  the  location  and  scope  of  a  scheme  of  trial  excavation  . ","label":[]}
+{"id":1221,"text":"1.2  The  survey  covered  an  area  of  approximately  4  hectares  ,  centred  at  TL  1060  2466  ,  to  the  north  and  west  of  Vale  Cemetery  (  see  Fig  . ","label":[]}
+{"id":1222,"text":"2  )  . ","label":[]}
+{"id":1223,"text":"Planning  permission  has  already  been  granted  (  Planning  Permission  00\/573\/OUT  )  for  the  site  to  be  used  to  extend  the  limits  of  the  cemetery  . ","label":[]}
+{"id":1224,"text":"Butterfield  Green  Road  forms  the  western  site  boundary  with  open  arable  fields  ,  earmarked  for  future  development  as  part  of  the  wider  Butterfield  development  ,  continuing  to  the  north  . ","label":[[0,24,"Location"],[157,169,"Location"]]}
+{"id":1225,"text":"The  fieldwork  was  carried  out  on  March  29th  and  30th  2005  at  which  time  the  site  was  under  arable  cultivation  and  conditions  ideal  for  survey  . ","label":[[63,69,"Time Period"]]}
+{"id":1226,"text":"Consequently  no  problems  were  encountered  during  the  fieldwork  . ","label":[]}
+{"id":1227,"text":"1.3  Topographically  the  site  is  generally  flat  at  approximately  165  metres  Above  Ordnance  Datum  (  AOD  )  and  is  situated  within  gently  rolling  chalk  downs  ,  although  there  is  a  slight  slope  from  north  to  south  . ","label":[]}
+{"id":1228,"text":"On  the  Soil  Survey  of  England  and  Wales  map  sheet  for  Eastern  England  the  soils  are  classified  in  the  Batcombe  soil  association  comprising  plateau  drift  and  clay-with-flints  over  Cretaceous  Chalk  . ","label":[[27,36,"Location"],[41,48,"Location"],[65,81,"Location"]]}
+{"id":1229,"text":"These  soils  are  described  as  fine  silty  over  clayey  and  fine  loamy  over  clayey  soils  . ","label":[]}
+{"id":1230,"text":"1.4  The  Butterfield  area  and  the  site  in  general  is  set  within  an  extensive  archaeological  landscape  that  includes  evidence  for  prehistoric  and  Roman  occupation  as  well  as  later  medieval  settlement  ,  the  nearest  example  being  at  Butterfield  Green  . ","label":[[10,22,"Location"],[148,160,"Time Period"],[166,172,"Time Period"],[199,215,"Time Period"],[265,284,"Location"]]}
+{"id":1231,"text":"Significantly  a  dense  scatter  of  Roman  pottery  and  tile  ,  probably  indicative  of  a  nearby  settlement  ,  has  been  identified  0.2km  to  the  north  of  the  present  evaluation  area  . ","label":[[38,44,"Time Period"],[45,53,"Artefact"],[59,64,"Artefact"]]}
+{"id":1232,"text":"1.5  Several  ditches  ,  two  pits  and  a  gully  ,  all  of  probable  late  prehistoric  date  ,  were  identified  during  trial  trenching  (  Carew  2004  )  undertaken  in  advance  of  the  construction  of  the  road  infrastructure  for  the  Butterfield  development  area  approximately  0.4km  to  the  north-east  . ","label":[[14,22,"Context"],[31,36,"Context"],[45,52,"Context"],[156,162,"Time Period"],[254,266,"Location"]]}
+{"id":1233,"text":"None  of  the  archaeological  features  corresponded  with  the  magnetic  anomalies  identified  during  the  preliminary  geophysical  survey  (  Brown  and  Butler  2004  )  . ","label":[[169,175,"Time Period"]]}
+{"id":1234,"text":"These  features  were  aceramic  ,  although  several  flints  (  probably  residual  )  were  recovered  . ","label":[[55,62,"Artefact"]]}
+{"id":1235,"text":"The  ditches  were  interpreted  as  probably  representing  a  field  system  . ","label":[[5,13,"Context"]]}
+{"id":1236,"text":"Several  anomalies  interpreted  as  potentially  archaeological  (  and  targeted  by  the  trial  trenching  )  did  not  manifest  as  archaeological  features  and  it  was  concluded  that  the  observed  magnetic  anomalies  were  due  to  variations  within  the  natural  geology  rather  than  by  archaeological  features  . ","label":[]}
+{"id":1237,"text":"1.6  More  recently  a  geophysical  survey  undertaken  by  Archaeological  Services  WYAS  (  see  Fig  . ","label":[]}
+{"id":1239,"text":"These  anomalies  were  interpreted  as  being  caused  by  underlying  geological  or  pedological  variation  ,  rather  than  by  archaeological  or  modern  activity  (  Harrison  2004  )  . ","label":[[184,190,"Time Period"]]}
+{"id":1240,"text":"1.7  A  programme  of  fieldwalking  ,  undertaken  by  Albion  Archaeology  prior  to  the  commencement  of  this  geophysical  survey  ,  has  not  identified  any  significant  clusters  of  finds  ,  although  there  was  a  general  background  scatter  of  medieval  pottery  and  flints  (  Pixley  pers  . ","label":[[264,274,"Time Period"],[274,283,"Artefact"],[288,296,"Artefact"]]}
+{"id":1241,"text":"com  .  )  . ","label":[]}
+{"id":1242,"text":"2  . ","label":[]}
+{"id":1243,"text":"Methodology  and  Presentation  2.1  The  general  objectives  of  the  geophysical  evaluation  were  :  o  to  identify  any  areas  of  archaeological  potential  o  to  establish  the  extent  of  any  areas  of  archaeological  potential  o  to  determine  the  nature  of  any  archaeological  magnetic  anomalies  . ","label":[]}
+{"id":1244,"text":"2.2  It  was  determined  that  magnetic  scanning  ,  undertaken  using  Geoscan  FM36  fluxgate  gradiometers  ,  across  the  whole  of  the  4  hectare  site  ,  would  be  the  most  effective  method  of  achieving  the  first  objective  . ","label":[]}
+{"id":1245,"text":"Scanning  is  particularly  useful  as  a  means  of  rapidly  identifying  areas  of  archaeological  potential  so  that  limited  detailed  survey  can  be  focussed  to  best  effect  . ","label":[]}
+{"id":1246,"text":"2.3  Magnetic  scanning  requires  the  operator  to  visually  identify  anomalous  responses  on  the  instrument  display  panel  whilst  covering  the  site  in  widely  spaced  traverses  ,  typically  10m  apart  . ","label":[]}
+{"id":1247,"text":"The  instrument  logger  is  not  used  and  there  is  therefore  no  data  collection  . ","label":[]}
+{"id":1248,"text":"Once  anomalous  responses  are  identified  they  are  marked  in  the  field  with  bamboo  canes  and  approximately  located  on  a  base  plan  . ","label":[]}
+{"id":1249,"text":"The  disadvantages  of  magnetic  scanning  are  that  features  that  produce  weak  anomalies  (  less  than  2nT  )  are  unlikely  to  stand  out  from  the  magnetic  background  and  so  will  be  difficult  to  identify  . ","label":[]}
+{"id":1250,"text":"The  relatively  coarse  sampling  interval  also  means  that  discrete  features  ,  or  linear  features  that  are  parallel  or  broadly  oblique  to  the  direction  of  traverse  ,  may  not  be  detected  . ","label":[]}
+{"id":1251,"text":"The  drawbacks  mentioned  above  mean  that  `  negative  '  results  from  magnetic  scanning  should  always  be  checked  by  an  agreed  amount  of  detailed  survey  . ","label":[]}
+{"id":1252,"text":"2.4  The  second  and  third  objectives  would  be  achieved  by  carrying  out  selected  detailed  survey  encompassing  areas  of  potential  highlighted  by  the  scanning  and  by  the  earlier  fieldwalking  survey  . ","label":[]}
+{"id":1253,"text":"2.5  Detailed  survey  employs  the  use  of  a  sample  trigger  to  automatically  take  readings  at  predetermined  points  ,  typically  at  0.5m  or  0.25m  intervals  ,  on  zigzag  traverses  1m  apart  . ","label":[]}
+{"id":1254,"text":"These  readings  are  stored  in  the  memory  of  the  instrument  and  are  later  dumped  to  computer  for  processing  and  interpretation  . ","label":[]}
+{"id":1255,"text":"Detailed  survey  therefore  allows  the  visualisation  of  weaker  anomalies  that  may  not  have  been  identified  during  the  magnetic  scanning  . ","label":[]}
+{"id":1256,"text":"2.6  In  this  case  no  significant  artefact  clusters  were  identified  by  the  fieldwalking  and  consequently  the  blocks  of  detailed  survey  were  located  based  solely  on  the  results  of  the  scanning  . ","label":[]}
+{"id":1257,"text":"Six  blocks  ,  each  60m  by  40m  (  1.5  hectares  )  were  surveyed  ,  a  total  of  40  %  of  the  overall  site  area  . ","label":[]}
+{"id":1259,"text":"All  figures  reproduced  from  Ordnance  Survey  mapping  are  done  so  with  the  permission  of  the  controller  of  Her  Majesty  's  Stationery  Office  . ","label":[]}
+{"id":1260,"text":"(  c  )  Crown  copyright  . ","label":[]}
+{"id":1261,"text":"2.8  A  general  site  location  plan  ,  incorporating  the  1:50000  Ordnance  Survey  mapping  ,  is  shown  in  Figure  1  . ","label":[]}
+{"id":1262,"text":"Figure  2  is  a  more  detailed  site  location  plan  ,  showing  the  processed  greyscale  gradiometer  data  ,  superimposed  onto  a  digital  base  map  supplied  by  the  client  ,  at  a  scale  of  1:5000  . ","label":[]}
+{"id":1263,"text":"The  processed  data  is  displayed  in  greyscale  format  ,  at  a  scale  of  1:500  ,  in  Figures  3  and  6  with  an  accompanying  interpretation  shown  at  the  same  scale  in  Figures  4  and  7  . ","label":[]}
+{"id":1264,"text":"Figures  5  and  8  show  the  unprocessed  (  `  raw  '  )  data  in  X-Y  trace  plot  format  ,  also  at  a  scale  of  1:500  . ","label":[]}
+{"id":1265,"text":"2.9  Technical  information  on  the  equipment  used  ,  data  processing  and  magnetic  survey  methodology  is  given  in  Appendix  1  . ","label":[]}
+{"id":1266,"text":"Appendix  2  details  the  survey  location  information  and  Appendix  3  describes  the  composition  and  location  of  the  archive  . ","label":[]}
+{"id":1267,"text":"The  figures  in  this  report  have  been  produced  following  analysis  of  the  data  in  `  raw  '  and  processed  formats  and  over  a  range  of  different  display  levels  . ","label":[]}
+{"id":1268,"text":"All  figures  are  presented  to  most  suitably  display  and  interpret  the  data  from  this  site  based  on  the  experience  and  knowledge  of  Archaeological  Services  staff  . ","label":[]}
+{"id":1269,"text":"3  . ","label":[]}
+{"id":1270,"text":"Results  and  Discussion  Magnetometer  Scanning  3.1  Overall  the  magnetic  susceptibility  of  the  site  was  fairly  high  fluctuating  between  +\/-1  nT  although  relatively  few  `  iron  spike  '  responses  were  identified  during  the  scanning  . ","label":[]}
+{"id":1271,"text":"3.2  Areas  of  magnetic  enhancement  of  varying  extent  were  identified  across  the  whole  survey  area  ,  the  most  extensive  of  which  were  in  the  central  and  western  parts  of  the  site  . ","label":[]}
+{"id":1272,"text":"These  responses  were  generally  in  excess  of  5nT  in  strength  but  appeared  to  be  discontinuous  in  nature  . ","label":[]}
+{"id":1273,"text":"No  other  anomalies  or  areas  of  archaeological  potential  were  identified  during  the  scanning  . ","label":[]}
+{"id":1274,"text":"3.3  Although  these  areas  of  enhanced  magnetic  response  were  considered  likely  to  be  geological  in  nature  four  of  the  six  blocks  were  positioned  to  further  evaluate  the  nature  of  these  anomalies  . ","label":[]}
+{"id":1275,"text":"Blocks  1  ,  2  ,  3  and  4  all  contained  at  least  one  area  of  magnetic  enhancement  located  during  the  scanning  . ","label":[]}
+{"id":1276,"text":"Blocks  5  and  6  were  positioned  randomly  to  give  a  good  overall  coverage  of  the  site  . ","label":[]}
+{"id":1277,"text":"Detailed  Survey  3.4  Isolated  dipolar  anomalies  (  `  iron  spikes  '  -  see  Appendix  1  )  have  been  identified  at  only  a  few  locations  within  the  survey  area  . ","label":[]}
+{"id":1278,"text":"These  `  iron  spike  '  anomalies  are  caused  by  ferrous  objects  or  other  magnetic  material  on  the  ground  surface  or  contained  within  the  upper  soil  horizons  . ","label":[[54,70,"Artefact"]]}
+{"id":1279,"text":"Although  archaeological  artefacts  may  cause  these  anomalies  they  are  more  often  caused  by  modern  cultural  debris  that  has  been  introduced  into  the  topsoil  usually  as  a  consequence  of  manuring  . ","label":[]}
+{"id":1281,"text":"In  most  of  the  blocks  they  are  fairly  strong  positive  ,  broad  and  discontinuous  responses  interpreted  as  being  indicative  of  underlying  geological  or  pedological  variations  . ","label":[]}
+{"id":1282,"text":"Previous  magnetometer  surveys  carried  out  by  both  Archaeological  Services  WYAS  and  Northamptonshire  Archaeology  in  the  immediate  vicinity  have  also  found  areas  of  magnetic  enhancement  similar  in  strength  and  character  to  those  located  during  this  survey  . ","label":[[94,112,"Location"]]}
+{"id":1283,"text":"Although  an  archaeological  origin  should  not  be  completely  dismissed  ,  it  is  considered  much  more  likely  that  the  observed  anomalies  are  due  to  variations  in  the  natural  geology  . ","label":[]}
+{"id":1284,"text":"3.6  Although  both  the  soils  and  geology  are  uniform  across  the  whole  of  the  site  the  trial  trenching  undertaken  following  the  first  geophysical  survey  (  Carew  2004  )  revealed  that  the  clay  natural  varied  in  colour  between  `  white  '  and  `  dark  red  '  with  a  varying  frequency  of  flint  inclusions  . ","label":[[185,191,"Time Period"]]}
+{"id":1285,"text":"The  `  white  '  comprised  very  light  grey  silty  clay  with  moderate  flint  inclusions  while  the  patches  of  darker  red  silty  clay  contained  very  frequent  flints  . ","label":[]}
+{"id":1286,"text":"It  is  considered  possible  that  the  red  colouration  of  the  clay  is  indicative  of  the  presence  of  iron  compounds  and  that  consequently  this  could  be  the  cause  of  the  areas  of  stronger  magnetic  response  . ","label":[]}
+{"id":1287,"text":"4  . ","label":[]}
+{"id":1288,"text":"Conclusions  4.1  No  anomalies  of  probable  archaeological  potential  have  been  identified  during  the  current  survey  with  the  only  anomalies  identified  interpreted  as  having  a  natural  origin  . ","label":[]}
+{"id":1289,"text":"However  ,  it  should  be  noted  that  the  strength  of  the  identified  geological  anomalies  are  such  that  it  is  considered  possible  that  the  potentially  weaker  magnetic  responses  from  an  infilled  archaeological  feature  may  not  be  discerned  against  such  a  strong  background  . ","label":[]}
+{"id":1290,"text":"Consequently  the  absence  of  any  potentially  archaeological  anomalies  should  not  be  assumed  to  indicate  the  absence  of  any  such  features  on  this  site  ,  particularly  as  archaeological  features  have  been  found  on  an  adjacent  site  that  were  not  identified  by  magnetometer  survey  . ","label":[]}
+{"id":1291,"text":"The  results  and  subsequent  interpretation  of  data  from  geophysical  survey  s  should  not  be  treated  as  an  absolute  representation  of  the  underlying  archaeological  and  non-archaeological  remains  . ","label":[]}
+{"id":1293,"text":"2004  . ","label":[[0,6,"Time Period"]]}
+{"id":1294,"text":"Geophysical  survey  at  Butterfield  Green  ,  Luton  ,  Bedfordshire  ,  April  2004  . ","label":[[25,70,"Location"],[82,88,"Time Period"]]}
+{"id":1295,"text":"Unpublished  report  ,  Northamptonshire  Archaeology  ,  Northamptonshire  County  Council  . ","label":[[24,42,"Location"],[58,76,"Location"]]}
+{"id":1296,"text":"Carew  ,  T.  2004  . ","label":[[14,20,"Time Period"]]}
+{"id":1297,"text":"An  Archaeological  Evaluation  at  Butterfield  Green  ,  Luton  ,  Bedfordshire  . ","label":[[36,81,"Location"]]}
+{"id":1298,"text":"Unpublished  report  ,  Pre-Construct  Archaeology  Ltd.  David  ,  A.  ,  1995  . ","label":[[75,81,"Time Period"]]}
+{"id":1299,"text":"Geophysical  Survey  in  Archaeological  Field  Evaluation  :  Research  and  Professional  Services  Guidelines  No  . ","label":[]}
+{"id":1300,"text":"1  . ","label":[]}
+{"id":1301,"text":"English  Heritage  Harrison  ,  T.  S.  ,  2004  . ","label":[[43,49,"Time Period"]]}
+{"id":1302,"text":"Land  at  Butterfield  Green  Near  Luton  Bedfordshire  :  Geophysical  Survey  . ","label":[[10,55,"Location"]]}
+{"id":1303,"text":"Unpublished  Report  ,  Archaeological  Services  WYAS  R1320  . ","label":[]}
+{"id":1305,"text":"o  a  full  copy  of  the  report  At  present  the  archive  is  held  by  Archaeological  Services  WYAS  although  it  is  anticipated  that  it  may  eventually  be  lodged  with  the  Archaeology  Data  Service  (  ADS  )  . ","label":[]}
+{"id":1306,"text":"Brief  details  may  also  be  forwarded  for  inclusion  on  the  English  Heritage  Geophysical  Survey  Database  after  the  contents  of  the  report  are  deemed  to  be  in  the  public  domain  (  i.e  . ","label":[]}
+{"id":1307,"text":"available  for  consultation  in  the  relevant  Sites  and  Monument  Record  Office  )  . ","label":[]}
+{"id":1309,"text":"OS  Licence  No  . ","label":[]}
+{"id":1310,"text":"076465  (  LA  )  . ","label":[]}
+{"id":1311,"text":"&  #  63721  ;  Crown  Copyright  . ","label":[]}
+{"id":1313,"text":"OS  Licence  No  . ","label":[]}
+{"id":1314,"text":"076465  (  LA  )  . ","label":[]}
+{"id":1315,"text":"&  #  63721  ;  Crown  Copyright  . ","label":[]}
+{"id":1318,"text":"The  fieldwork  forms  part  of  a  series  of  evaluations  which  were  added  to  the  larger  programme  of  archaeological  investigations  excavated  in  1997  along  the  line  of  the  future  Channel  Tunnel  Rail  Link  . ","label":[[160,166,"Time Period"]]}
+{"id":1319,"text":"The  aim  was  to  assess  the  effect  of  construction  of  the  new  railway  upon  the  cultural  heritage  . ","label":[]}
+{"id":1320,"text":"Archaeological  features  of  recent  date  were  recorded  in  four  (  3305TT  -  3308TT  )  of  the  nine  trial  trenches  . ","label":[]}
+{"id":1321,"text":"An  undated  stone  wall  foundation  and  ditch  were  located  in  trench  3311  TT  . ","label":[[13,20,"Material"],[20,36,"Context"],[43,50,"Context"]]}
+{"id":1322,"text":"Two  sherds  of  medieval  pottery  and  a  struck  flint  were  also  recovered  . ","label":[[5,13,"Artefact"],[17,26,"Time Period"],[27,35,"Artefact"],[44,58,"Artefact"]]}
+{"id":1325,"text":"NON-TECHNICAL  SUMMARY  1.1  This  report  presents  the  results  of  an  archaeological  watching  brief  undertaken  by  AOC  Archaeology  Group  on  behalf  of  Angus  Council  during  ground-breaking  works  for  a  wall  foundation  trench  adjacent  to  the  A935  Brechin  to  Montrose  Road  ,  Angus  (  Figure  1  )  . ","label":[[165,172,"Location"],[266,309,"Location"]]}
+{"id":1326,"text":"The  archaeological  works  were  designed  to  satisfy  the  requirements  of  the  local  planning  authority  ,  Angus  Council  ,  as  advised  by  the  Aberdeenshire  Council  Archaeology  Service  (  ACAS  )  and  are  in  accordance  with  the  principles  inherent  in  NPPG  5  (  Scottish  Office  1994  )  and  PAN  42  (  Scottish  Office  1994a  )  . ","label":[[116,123,"Location"],[157,172,"Location"]]}
+{"id":1327,"text":"1.2  The  watching  brief  was  conducted  on  5th  March  2007  . ","label":[[59,65,"Time Period"]]}
+{"id":1328,"text":"No  significant  archaeological  features  or  artefacts  were  uncovered  . ","label":[]}
+{"id":1329,"text":"2  . ","label":[]}
+{"id":1330,"text":"INTRODUCTION  2.1  Planning  background  2.1.1  An  archaeological  watching  brief  was  required  by  Angus  Council  during  groundbreaking  works  for  a  foundation  trench  adjacent  to  the  A935  Brechin  to  Montrose  Road  ,  Angus  (  Figure  1  )  . ","label":[[198,241,"Location"]]}
+{"id":1331,"text":"The  local  authority  ,  Angus  Council  ,  is  advised  by  Aberdeenshire  Council  Archaeology  Service  (  ACAS  )  with  the  required  works  being  in  accord  with  NPPG  5  (  SOEnd  1994  )  and  PAN  42  (  SOEnd  1994a  )  . ","label":[[26,33,"Location"],[62,77,"Location"]]}
+{"id":1332,"text":"2.2  Location  2.2.1  The  development  site  is  located  between  Brechin  and  Montrose  ,  Angus  adjacent  to  the  A935  (  NGR  :  NO  67637  59698  )  (  Figure  1  )  . ","label":[[68,76,"Location"],[82,100,"Location"],[121,126,"Location"]]}
+{"id":1333,"text":"The  site  is  situated  in  an  area  of  agricultural  farmland  and  approximately  300m  from  the  House  of  Dun  estate  ,  property  of  the  National  Trust  for  Scotland  . ","label":[]}
+{"id":1334,"text":"2.3  Archaeological  background  2.3.1  The  area  surrounding  the  development  site  represents  a  rich  archaeological  landscape  . ","label":[]}
+{"id":1335,"text":"The  House  of  Dun  and  its  estate  are  within  close  proximity  to  the  development  site  containing  a  Georgian  Family  House  with  extensive  gardens  and  woodland  . ","label":[]}
+{"id":1336,"text":"3  . ","label":[]}
+{"id":1337,"text":"OBJECTIVES  3.1  The  objectives  of  the  archaeological  watching  brief  were  :  i.  to  monitor  ground-breaking  works  associated  with  the  development  and  to  prevent  the  destruction  of  significant  archaeological  features  prior  to  their  recording  ;  ii  . ","label":[]}
+{"id":1339,"text":"METHOD  4.1  Stripping  and  excavation  4.1.1  The  entire  area  of  trenching  (  c.  42  m2  )  was  machine  stripped  using  a  JCB  backhoe  loader  equipped  with  a  toothless  bucket  (  width  :  c.  0.60  m  )  under  constant  archaeological  direction  . ","label":[]}
+{"id":1340,"text":"All  stripping  was  undertaken  according  to  AOC  Archaeology  Group  's  standard  operating  procedures  . ","label":[]}
+{"id":1341,"text":"Machine  excavation  was  carried  out  in  shallow  spits  and  ceased  on  the  first  significant  archaeological  horizon  or  natural  subsoil  . ","label":[]}
+{"id":1342,"text":"4.1.2  All  significant  archaeological  features  were  cleaned  and  fully  defined  and  were  fully  excavated  and  recorded  in  order  to  determine  their  character  ,  function  ,  condition  ,  nature  and  date  . ","label":[]}
+{"id":1343,"text":"4.1.3  Finds  and  archaeological  features  readily  demonstrable  as  being  of  19th  or  20th  century  date  were  not  considered  archaeologically  significant  . ","label":[[83,106,"Time Period"]]}
+{"id":1344,"text":"4.1.4  A  photographic  record  of  all  invasive  works  was  compiled  (  Appendix  2  )  . ","label":[]}
+{"id":1345,"text":"5  . ","label":[]}
+{"id":1346,"text":"RESULTS  5.1  Introduction  5  . ","label":[]}
+{"id":1347,"text":"1.1  The  archaeological  watching  brief  was  undertaken  on  5th  March  2007  in  fine  weather  conditions  . ","label":[[76,82,"Time Period"]]}
+{"id":1348,"text":"The  foundation  trench  was  excavated  to  c.  0.30  -  0.40  m.  The  area  of  excavation  covered  c.  42  m^2  . ","label":[]}
+{"id":1349,"text":"5.2  Soils  5.2.1  Due  to  the  shallow  depth  of  the  foundation  trench  only  the  topsoil  was  visible  ,  consisting  of  a  loose  dark  brown  plough-soil  with  no  obvious  inclusions  . ","label":[]}
+{"id":1350,"text":"5.3  Archaeological  Observations  5.3.1  Excavated  area  contains  no  significant  archaeological  remains  . ","label":[]}
+{"id":1351,"text":"Occasional  sandstone  `  blocks  '  were  encountered  but  it  is  believed  that  they  are  remnants  of  the  no  longer  extant  wall  ;  no  structure  or  regularity  could  be  observed  . ","label":[[12,23,"Material"],[26,34,"Artefact"],[96,139,"Context"]]}
+{"id":1352,"text":"Trench  stratigraphy  could  not  be  ascertained  as  the  trench  depth  did  not  cut  beneath  the  topsoil  . ","label":[]}
+{"id":1354,"text":"CONCLUSION  AND  RECOMMENDATIONS  6.1  The  watching  brief  on  ground-breaking  works  found  no  significant  archaeological  features  or  artefacts  . ","label":[]}
+{"id":1355,"text":"Sandstone  `  blocks  '  were  observed  but  are  believed  to  be  from  the  no  longer  extant  wall  . ","label":[[0,11,"Material"],[14,22,"Artefact"],[80,106,"Context"]]}
+{"id":1356,"text":"6.2  Given  the  above  findings  ,  the  significant  balance  of  probability  is  that  the  development  area  is  archaeologically  sterile  . ","label":[]}
+{"id":1357,"text":"No  further  archaeological  works  are  considered  necessary  . ","label":[]}
+{"id":1358,"text":"7  . ","label":[]}
+{"id":1359,"text":"REFERENCES  SOEnd  1994  National  Planning  Policy  Guideline  5  ,  Archaeology  and  Planning  . ","label":[[19,25,"Time Period"]]}
+{"id":1360,"text":"Scottish  Office  Environment  Department  . ","label":[]}
+{"id":1361,"text":"SOEnd  1994a  Planning  advice  Note  42  ,  Archaeology  and  Planning  . ","label":[]}
+{"id":1362,"text":"Scottish  Office  Environment  Department  . ","label":[]}
+{"id":1366,"text":"Crown  copyright  . ","label":[]}
+{"id":1367,"text":"AOC  Archaeology  C  :  ItotT  Group  . ","label":[]}
+{"id":1368,"text":"Edgefield  Industrial  Estate  ,  Loanhead  ,  Midlothian  ,  EH  20  9SY  . ","label":[[34,57,"Location"]]}
+{"id":1369,"text":"OS  License  no  . ","label":[]}
+{"id":1373,"text":"Licence  No  . ","label":[]}
+{"id":1374,"text":"100021186  . ","label":[]}
+{"id":1375,"text":"Figure  2  :  Location  plan  of  development  site  (  highlighted  )  Scale  :  1:2500  Figure  3  :  Plan  of  site  ,  showing  areas  and  features  observed  during  watching  brief  PLATES  Plate  1  :  Site  before  commencement  of  work  ,  looking  north  Plate  2  :  Proposed  entranceway  prior  to  excavation  and  after  removal  of  railings  and  shrubs  ,  looking  east  northeast  Plate  3  :  Area  stripped  of  topsoil  close  to  west  corner  of  site  ,  looking  east  Plate  4  :  Entranceway  after  excavation  but  before  laying  of  hardcore  Plate  5  :  West  facing  section  at  entranceway  ,  looking  northwest  Plate  6  :  Excavation  of  waterlogged  area  to  western  side  of  site  ,  showing  natural  substratum  . ","label":[]}
+{"id":1376,"text":"Disturbed  area  to  left  and  rear  of  picture  Plate  7  :  South  facing  section  of  service  trench  in  northwest  corner  ,  looking  north  (  c  )  ULAS  Report  No  . ","label":[]}
+{"id":1378,"text":"The  site  lies  within  the  medieval  and  post-medieval  settlement  core  of  Market  Bosworth  . ","label":[[30,58,"Time Period"],[82,98,"Location"]]}
+{"id":1379,"text":"The  site  was  once  part  of  the  cattle  market  . ","label":[[37,45,"Species"]]}
+{"id":1380,"text":"Archaeological  work  had  been  carried  out  on  the  neighbouring  site  to  the  east  ,  known  as  the  Cattle  Market  site  . ","label":[[110,130,"Location"]]}
+{"id":1381,"text":"This  evaluation  and  subsequent  excavation  recorded  archaeological  features  from  several  periods  ,  including  Iron  Age  and  Roman  activity  and  medieval  boundary  ditches  . ","label":[[121,130,"Time Period"],[137,144,"Time Period"],[159,169,"Time Period"],[169,186,"Context"]]}
+{"id":1382,"text":"The  watching  brief  revealed  no  archaeological  features  or  finds  relating  to  archaeological  features  . ","label":[]}
+{"id":1383,"text":"The  archive  will  be  deposited  with  Leicestershire  County  Council  ,  Heritage  Services  with  accession  number  X.A209  . ","label":[[41,57,"Location"]]}
+{"id":1384,"text":"2005  . ","label":[[0,6,"Time Period"]]}
+{"id":1385,"text":"Introduction  University  of  Leicester  Archaeological  Services  (  ULAS  )  were  commissioned  by  Market  Bosworth  Parish  Council  to  carry  out  a  watching  brief  during  the  creation  of  a  new  car  park  on  land  at  The  Black  Horse  ,  17  ,  Market  Place  ,  Market  Bosworth  ,  Leicestershire  (  NGR  SK  406  030  )  . ","label":[[30,41,"Location"],[103,119,"Location"],[234,316,"Location"]]}
+{"id":1386,"text":"Archaeological  work  was  required  as  a  condition  of  the  planning  permission  granted  by  Leicestershire  County  Council  (  planning  application  No  . ","label":[[99,115,"Location"]]}
+{"id":1387,"text":"04\/00892\/COU  )  . ","label":[]}
+{"id":1388,"text":"The  site  lies  within  the  medieval  and  post-medieval  settlement  core  of  Market  Bosworth  and  the  planned  development  of  the  new  car  park  was  seen  to  have  the  potential  to  have  a  damaging  impact  on  any  archaeological  remains  if  present  . ","label":[[30,39,"Time Period"],[45,59,"Time Period"],[82,99,"Location"]]}
+{"id":1389,"text":"The  site  lies  adjacent  to  the  Cattle  Market  site  ,  where  archaeological  work  was  carried  out  on  behalf  of  Cadeby  Homes  by  ULAS  in  1996  . ","label":[[36,51,"Location"],[154,160,"Time Period"]]}
+{"id":1390,"text":"The  work  here  recorded  a  prehistoric  pit  ,  a  Roman  ditch  and  medieval  ditches  ,  which  were  most  likely  property  boundaries  . ","label":[[30,42,"Time Period"],[43,48,"Context"],[54,60,"Time Period"],[61,68,"Context"],[73,82,"Time Period"],[83,91,"Context"]]}
+{"id":1391,"text":"Other  undated  postholes  were  also  observed  . ","label":[[16,27,"Context"]]}
+{"id":1392,"text":"(  Gossip  1996  )  . ","label":[[11,17,"Time Period"]]}
+{"id":1393,"text":"Prehistoric  and  Roman  discoveries  had  been  made  in  the  past  around  the  town  ,  including  a  Roman  Villa  just  to  the  north  of  the  town  (  NGR  SK  406  035  )  and  possible  Bronze  Age  ring  ditches  at  Bosworth  Park  (  NGR  SK  411  030  )  . ","label":[[0,13,"Time Period"],[18,24,"Time Period"],[106,112,"Time Period"],[197,209,"Time Period"],[210,223,"Context"],[229,244,"Location"]]}
+{"id":1394,"text":"The  work  involved  the  removal  of  existing  concrete  and  the  excavation  of  formation  layers  for  hardcore  and  an  asphalt  surface  . ","label":[]}
+{"id":1395,"text":"It  was  also  planned  to  excavate  an  entranceway  into  the  car  park  from  Rectory  Lane  . ","label":[[83,97,"Location"]]}
+{"id":1396,"text":"This  would  involve  the  removal  of  the  existing  railings  and  shrubbery  and  the  grading  of  the  ground  surface  from  the  pathway  on  Rectory  Lane  into  the  car  park  . ","label":[[150,164,"Location"]]}
+{"id":1397,"text":"There  were  also  a  number  of  service  trenches  to  be  excavated  . ","label":[]}
+{"id":1398,"text":"The  Planning  Archaeologist  at  the  Historic  and  Natural  Environment  Team  ,  Leicestershire  County  Council  prepared  a  Brief  For  An  Archaeological  Watching  Brief  for  the  site  dated  30th  September  2004  (  Appendix  )  . ","label":[[85,101,"Location"],[220,225,"Time Period"]]}
+{"id":1399,"text":"This  document  detailed  the  need  for  a  watching  brief  during  the  ground-works  . ","label":[]}
+{"id":1400,"text":"(  c  )  ULAS  Report  No  . ","label":[]}
+{"id":1402,"text":"It  consists  of  an  area  of  c.730  square  metres  . ","label":[]}
+{"id":1403,"text":"Prior  to  the  development  the  land  consisted  of  a  concreted  surface  ,  partially  enclosed  by  fencing  and  railings  (  Plate  2  )  . ","label":[]}
+{"id":1404,"text":"The  Ordnance  Survey  Geological  Survey  of  Great  Britain  (  Solid  and  Drift  )  Sheet  155  indicates  that  the  underlying  geology  is  likely  to  consist  of  glacial  sand  and  gravel  overlying  Mercia  Mudstone  . ","label":[]}
+{"id":1405,"text":"The  land  lies  at  a  height  of  c.  129m  OD  . ","label":[]}
+{"id":1406,"text":"Figure  1  :  Location  map  of  Market  Bosworth  . ","label":[[33,49,"Location"]]}
+{"id":1407,"text":"OS  Map  Landranger  140  :  Leicester  ,  Coventry  &  Rugby  Scale  1:50  000  (  c  )  Crown  Copyright  . ","label":[[29,40,"Location"],[43,53,"Location"],[56,63,"Location"]]}
+{"id":1408,"text":"Licence  No  . ","label":[]}
+{"id":1409,"text":"100021186  . ","label":[]}
+{"id":1410,"text":"Aims  and  Methods  The  purpose  of  the  watching  brief  was  to  ascertain  whether  archaeological  deposits  were  present  . ","label":[]}
+{"id":1411,"text":"If  so  ,  the  character  ,  extent  and  date  range  of  any  deposits  identified  would  be  established  ,  in  order  to  assess  their  significance  . ","label":[]}
+{"id":1412,"text":"Recording  of  these  deposits  would  be  carried  out  as  appropriate  ,  and  an  archive  and  this  report  produced  . ","label":[]}
+{"id":1413,"text":"The  (  c  )  ULAS  Report  No  . ","label":[]}
+{"id":1415,"text":"An  archaeologist  visited  the  site  on  24th  ,  28th  and  30th  November  and  the  6th  December  2005  and  ground-works  associated  with  the  development  were  observed  (  Figure  . ","label":[[104,110,"Time Period"]]}
+{"id":1416,"text":"3  )  . ","label":[]}
+{"id":1417,"text":"The  spoil  heaps  were  also  examined  for  archaeological  finds  . ","label":[]}
+{"id":1418,"text":"Figure  2  :  Location  plan  of  development  site  (  highlighted  )  . ","label":[]}
+{"id":1419,"text":"Scale  :  1:2500  Results  The  site  was  initially  visited  on  23\/11\/05  and  the  excavation  of  the  entranceway  from  Rectory  Lane  into  the  car  park  was  observed  . ","label":[[67,75,"Time Period"],[127,141,"Location"]]}
+{"id":1420,"text":"This  required  the  removal  of  small  shrubs  and  a  large  set  of  railings  ,  with  their  footings  ,  and  the  removal  of  a  substantial  amount  of  soil  and  natural  clay  . ","label":[]}
+{"id":1421,"text":"The  depth  of  the  excavation  at  the  front  of  Rectory  Lane  was  approximately  0.8m  ,  which  rose  up  in  a  1:10  slope  onto  the  main  car  park  area  for  10m  (  Plate  4  )  . ","label":[[53,67,"Location"]]}
+{"id":1422,"text":"The  entranceway  was  completed  on  28\/11\/05  . ","label":[[38,46,"Time Period"]]}
+{"id":1423,"text":"The  sequence  of  deposits  visible  in  the  section  at  the  entranceway  of  the  car  park  was  very  clear  and  consisted  of  0.2m  of  very  dark  brown  loam  topsoil  ,  overlying  0.3m  of  brown  subsoil  (  Plate  5  )  . ","label":[]}
+{"id":1424,"text":"This  overlay  the  natural  substratum  of  brownish  orange  sandy  clay  . ","label":[]}
+{"id":1425,"text":"No  archaeological  features  were  observed  during  these  visits  . ","label":[]}
+{"id":1426,"text":"A  clay  pipe  and  a  small  stoneware  bottle  were  recovered  from  the  topsoil  . ","label":[[3,9,"Material"],[9,15,"Artefact"],[30,41,"Material"],[41,49,"Artefact"]]}
+{"id":1427,"text":"(  c  )  ULAS  Report  No  . ","label":[]}
+{"id":1429,"text":"The  topsoil  stripping  was  observed  on  28\/11\/05  and  30\/11\/05  . ","label":[[44,52,"Time Period"],[59,68,"Time Period"]]}
+{"id":1430,"text":"The  topsoil  was  stripped  to  a  depth  of  0.2m-0.3m  and  this  exposed  the  brown  subsoil  beneath  (  Plate  3  )  . ","label":[]}
+{"id":1431,"text":"In  places  the  stripping  exposed  areas  that  had  been  previously  disturbed  . ","label":[]}
+{"id":1432,"text":"These  included  a  patch  of  building  debris  close  to  the  western  side  of  the  site  near  the  small  brick  sheds  and  also  in  under  the  concreted  area  in  the  northeast  corner  of  the  site  (  Figure  3  )  . ","label":[]}
+{"id":1433,"text":"A  slightly  waterlogged  area  close  to  the  western  edge  of  the  site  was  excavated  to  a  depth  of  around  0.6m  to  a  more  substantial  layer  . ","label":[]}
+{"id":1434,"text":"This  exposed  the  natural  substratum  below  the  subsoil  (  Plate  6  )  . ","label":[]}
+{"id":1435,"text":"The  natural  substratum  consisted  of  patches  of  soft  clayey  sand  and  clay  and  occasional  patches  of  gravel  . ","label":[]}
+{"id":1436,"text":"No  archaeological  features  were  observed  during  these  visits  ,  although  a  few  sherds  of  pottery  and  two  small  coin-shaped  objects  were  recovered  from  the  topsoil  . ","label":[[90,109,"Artefact"],[121,148,"Artefact"]]}
+{"id":1437,"text":"During  the  visit  of  06\/12\/05  the  improvement  of  existing  services  was  observed  . ","label":[[24,32,"Time Period"]]}
+{"id":1438,"text":"(  Figure  3  )  . ","label":[]}
+{"id":1439,"text":"This  consisted  of  a  small  amount  of  excavation  around  the  existing  drains  . ","label":[]}
+{"id":1440,"text":"For  the  most  part  the  areas  were  disturbed  ,  although  it  was  possible  to  observe  the  sequence  of  the  area  in  the  northwest  corner  (  Figure  3  &  Plate  7  )  . ","label":[]}
+{"id":1441,"text":"This  consisted  of  a  0.15m  layer  of  subsoil  overlying  red  sand  . ","label":[]}
+{"id":1442,"text":"No  archaeological  finds  or  features  were  discovered  during  these  excavations  . ","label":[]}
+{"id":1443,"text":"The  excavation  of  a  2  x  3m  hole  to  accommodate  a  new  interceptor  tank  was  to  take  place  subsequent  to  the  previous  services  work  . ","label":[]}
+{"id":1444,"text":"As  this  was  to  be  placed  very  close  to  the  building  on  the  west  side  of  the  site  on  ground  that  was  mainly  disturbed  and  due  to  the  paucity  of  archaeology  found  on  the  site  as  a  whole  ,  the  visiting  archaeologist  decided  that  it  was  unnecessary  for  this  area  to  be  examined  . ","label":[]}
+{"id":1445,"text":"Conclusion  The  excavations  in  the  southern  part  if  the  site  during  the  creation  of  the  entranceway  revealed  no  archaeology  . ","label":[]}
+{"id":1446,"text":"No  archaeology  was  discovered  during  the  excavation  of  the  drainage  and  the  waterlogged  areas  . ","label":[]}
+{"id":1447,"text":"Throughout  the  rest  of  the  site  only  the  topsoil  was  removed  and  was  not  deep  enough  to  expose  any  archaeology  . ","label":[]}
+{"id":1448,"text":"The  pottery  consisted  of  a  fragment  of  yellow  ware  (  c.  1500-1750  )  ,  a  sherd  of  mottled  ware  (  c.  1650-1780  )  ,  fragment  of  a  brown  salt  glazed  stoneware  mug  (  18th  century  )  . ","label":[[5,14,"Artefact"],[46,58,"Artefact"],[67,77,"Time Period"],[87,111,"Artefact"],[120,130,"Time Period"],[175,186,"Material"],[186,191,"Artefact"],[194,207,"Time Period"]]}
+{"id":1449,"text":"The  white  clay  pipe  ,  which  has  a  milled  rim  ,  was  dated  to  the  late  18th  or  early  19th  century  and  the  small  brown  salt  glazed  stoneware  bottle  was  dated  to  the  19th  century  and  was  possibly  an  inkwell  . ","label":[[12,18,"Material"],[18,24,"Artefact"],[79,116,"Time Period"],[155,166,"Material"],[166,174,"Artefact"],[195,209,"Time Period"]]}
+{"id":1450,"text":"All  these  finds  were  recovered  from  the  topsoil  and  therefore  could  not  be  related  to  any  archaeological  context  . ","label":[]}
+{"id":1451,"text":"The  proximity  of  the  site  to  the  previously  excavated  Cattle  Market  site  meant  that  the  site  had  considerable  potential  for  archaeological  remains  . ","label":[[63,78,"Location"]]}
+{"id":1452,"text":"However  ,  the  only  area  of  the  site  excavated  to  any  considerable  depth  was  the  entranceway  at  Rectory  Lane  and  the  drainage  work  and  these  excavations  revealed  no  evidence  of  archaeological  features  . ","label":[[112,126,"Location"]]}
+{"id":1453,"text":"Throughout  the  remainder  of  the  site  the  ground-works  did  not  penetrate  to  a  depth  sufficient  to  reveal  archaeological  remains  . ","label":[]}
+{"id":1454,"text":"The  watching  brief  therefore  was  shown  to  have  been  a  successful  mitigation  strategy  for  the  work  on  this  site  . ","label":[]}
+{"id":1455,"text":"(  c  )  ULAS  Report  No  . ","label":[]}
+{"id":1457,"text":"ULAS  Report  No  . ","label":[]}
+{"id":1458,"text":"96\/68  (  c  )  ULAS  Report  No  . ","label":[]}
+{"id":1460,"text":"ULAS  Report  96\/21  Archive  The  archive  will  be  deposited  with  Leicestershire  Historic  and  Natural  Environment  Team  with  accession  number  X.A209.2003  and  consists  of  the  following  :  4  watching  brief  record  sheets  CD  of  digital  photographs  1  Architect  's  Plan  Acknowledgements  ULAS  would  like  to  thank  Market  Bosworth  Parish  Council  and  Planters  (  Leicester  )  Limited  for  their  co-operation  . ","label":[[71,87,"Location"],[344,360,"Location"],[397,408,"Location"]]}
+{"id":1461,"text":"Leon  Hunt  carried  out  the  watching  brief  ;  Richard  Buckley  was  the  Project  Manager  . ","label":[]}
+{"id":1462,"text":"Leon  Hunt  ULAS  University  of  Leicester  University  Road  Leicester  LE1  7RH  Tel:0116  252  2848  Fax  :  0116  252  2614  lh90  @  le.ac.uk  (  c  )  ULAS  Report  No  . ","label":[[34,45,"Location"],[45,82,"Location"]]}
+{"id":1466,"text":"194\/838  OXFORD  ARCHAEOLOGICAL  UNIT  March  1997  (  c  )  UNION  RAILWAYS  LTD  ,  1997  All  rights  including  translation  reserved  . ","label":[[9,17,"Location"],[46,52,"Time Period"],[86,92,"Time Period"]]}
+{"id":1467,"text":"No  part  of  this  publication  may  be  reproduced  ,  stored  in  a  retrieval  system  ,  or  transmitted  in  any  form  or  by  means  electronic  ,  mechanical  ,  photocopying  ,  recording  or  otherwise  ,  without  the  prior  written  permission  of  Union  Railways  Limited  . ","label":[]}
+{"id":1470,"text":"Site  location  2  . ","label":[]}
+{"id":1471,"text":"Trench  location  3  . ","label":[]}
+{"id":1472,"text":"Interpretation  of  villa  plan  from  1933  ,  1958  &  1996  trenches  4  . ","label":[[39,45,"Time Period"],[48,54,"Time Period"],[57,63,"Time Period"]]}
+{"id":1473,"text":"Trench  1133  plan  and  section  5  . ","label":[]}
+{"id":1474,"text":"Trench  1132  plan  and  sections  6  . ","label":[]}
+{"id":1475,"text":"Trenches  1134  &  1128  plan  7  . ","label":[]}
+{"id":1476,"text":"Trenches  1134  &  1128  sections  8  . ","label":[]}
+{"id":1477,"text":"Trench  1131  plan  9  . ","label":[]}
+{"id":1478,"text":"Trench  1130  plan  and  sections  10  . ","label":[]}
+{"id":1479,"text":"Trench  1127  plan  and  sections  11  . ","label":[]}
+{"id":1480,"text":"Trench  1129  plan  and  sections  12  . ","label":[]}
+{"id":1481,"text":"Trench  1976  plan  13  . ","label":[]}
+{"id":1482,"text":"Trench  1135  plan  and  sections  14  . ","label":[]}
+{"id":1483,"text":"Trench  1138  &  1140  sections  15  . ","label":[]}
+{"id":1484,"text":"Trench  1139  plan  and  section  16  . ","label":[]}
+{"id":1485,"text":"Trenches  1142  ,  1143  &  1145  plans  and  sections  17  . ","label":[]}
+{"id":1486,"text":"Trench  1977  plan  18  . ","label":[]}
+{"id":1487,"text":"Summary  of  archaeological  discoveries  with  air-photographic  and  geophysical  interpretation  19  . ","label":[]}
+{"id":1488,"text":"Field  boundaries  on  1825  Tithe  map  and  1895  OS  revision  20  . ","label":[[23,29,"Time Period"],[46,52,"Time Period"]]}
+{"id":1489,"text":"Local  Iron  Age  and  Roman  sites  in  relation  to  geology  21  . ","label":[[7,16,"Time Period"],[23,30,"Time Period"]]}
+{"id":1490,"text":"Plot  of  geophysical  survey  of  the  villa  site  22  . ","label":[]}
+{"id":1491,"text":"Plot  of  geophysical  survey  of  Corbier  Hall  List  of  Plates  1  . ","label":[[35,48,"Location"]]}
+{"id":1492,"text":"Aerial  view  of  Thurnham  Roman  Villa  cropmark  2  . ","label":[[18,28,"Location"],[28,35,"Time Period"]]}
+{"id":1493,"text":"Aerial  view  of  Corbier  Hall  cropmark  3  . ","label":[[18,31,"Location"]]}
+{"id":1494,"text":"Cobbled  trackway  and  ditch  in  Trench  1139  4  . ","label":[[0,17,"Context"],[24,31,"Context"]]}
+{"id":1495,"text":"Villa  wall  footings  in  Trench  1133  5  . ","label":[[7,21,"Context"]]}
+{"id":1496,"text":"Stone  rubble  and  tile  layer  in  Trench  1127  6  . ","label":[]}
+{"id":1498,"text":"The  site  of  the  Scheduled  Ancient  Monument  of  Thurnham  Roman  Villa  was  examined  together  with  a  corridor  to  the  south-east  which  included  land  close  to  the  Scheduled  Ancient  Monument  of  medieval  Corbier  Hall  . ","label":[[54,63,"Location"],[64,70,"Time Period"],[216,225,"Time Period"],[226,240,"Location"]]}
+{"id":1499,"text":"The  wall  footings  of  the  villa  were  exposed  under  the  modern  ploughsoil  ,  together  with  the  footings  of  an  aisled  building  50  m  to  the  east  and  evidence  of  other  structures  in  adjacent  trenches  . ","label":[[64,71,"Time Period"]]}
+{"id":1500,"text":"Archaeological  deposits  ,  including  ditches  ,  pits  ,  cobbled  spreads  and  building  debris  ,  were  widespread  in  an  area  extending  for  200  m  NW-SE  and  the  90  m  width  of  the  evaluation  corridor  ,  both  on  the  knoll  on  which  the  villa  stood  and  off  the  slope  to  the  south-east  . ","label":[[40,49,"Context"],[52,58,"Context"],[61,77,"Context"]]}
+{"id":1501,"text":"Intact  floor  surfaces  associated  with  the  villa  were  not  present  although  plough-damaged  remnant  surfaces  possibly  survived  elsewhere  ,  including  the  aisled  building  . ","label":[]}
+{"id":1502,"text":"Stratified  deposits  were  found  under  the  villa  and  aisled  building  ,  and  in  other  areas  on  the  slope  of  the  knoll  ,  but  were  generally  absent  elsewhere  . ","label":[]}
+{"id":1503,"text":"The  pot  tery  was  nearly  all  dateable  to  the  1st  and  2nd  centuries  ,  with  a  pre-conquest  component  almost  certainly  present  . ","label":[[5,15,"Artefact"],[53,77,"Time Period"],[91,103,"Time Period"]]}
+{"id":1504,"text":"It  is  possible  that  later  Rom  an  deposits  had  been  lost  to  the  plough  . ","label":[[31,38,"Time Period"]]}
+{"id":1505,"text":"There  were  no  medieval  remains  associated  with  Corbier  Hall  . ","label":[[17,26,"Time Period"],[54,68,"Location"]]}
+{"id":1506,"text":"The  `  moat  '  of  Corbier  Hall  was  revealed  . ","label":[[21,35,"Location"]]}
+{"id":1507,"text":"It  had  been  levelled  in  the  1950s  and  any  earlier  underlying  sediments  were  not  examined  . ","label":[[34,41,"Time Period"]]}
+{"id":1508,"text":"A  19th  century  brick  structure  within  the  valley  was  enigmatic  but  possibly  a  small  ice-house  . ","label":[[3,16,"Time Period"]]}
+{"id":1509,"text":"SECTION  1  :  FACTUAL  STATEMENT  1  BACKGROUND  1.1  Introduction  1.1.1  The  Oxford  Archaeological  Unit  undertook  an  archaeological  evaluation  (  Fig  . ","label":[[81,89,"Location"]]}
+{"id":1510,"text":"1  )  ,  between  11th  and  28th  November  inclusive  ,  on  behalf  of  Union  Railways  Ltd  (  URL  )  on  land  north  of  the  M20  at  Thurnham  ,  near  Maidstone  ,  Kent  (  TQ  58001572  approx  .  )  . ","label":[[134,151,"Location"],[162,180,"Location"]]}
+{"id":1511,"text":"The  evaluation  forms  part  of  a  programme  of  archaeological  investigation  along  the  line  of  the  Channel  Tunnel  Rail  Link  ,  the  aim  of  which  is  to  assess  the  effect  of  the  construction  of  the  new  railway  upon  the  cultural  heritage  . ","label":[]}
+{"id":1512,"text":"An  Environmental  Assessment  has  been  prepared  (  URL  1994  )  . ","label":[[60,66,"Time Period"]]}
+{"id":1513,"text":"1.1.2  The  work  was  carried  out  according  to  a  Written  Scheme  of  Investigation  ,  prepared  by  URL  ,  detailing  the  scope  and  methods  of  the  evaluation  ,  including  this  report  . ","label":[]}
+{"id":1515,"text":"2  . ","label":[]}
+{"id":1516,"text":"The  site  includes  the  Scheduled  Ancient  Monument  of  Thurnham  Rom  an  Villa  (  KE  299  )  and  land  south  of  the  Scheduled  Ancient  Monument  of  Corbier  Hall  (  KE  309  )  . ","label":[[60,69,"Location"],[70,77,"Time Period"],[162,176,"Location"]]}
+{"id":1517,"text":"Plates  1  and  2  are  aerial  photographs  of  these  monuments  . ","label":[]}
+{"id":1518,"text":"1.1.3  The  villa  was  `  discovered  '  in  1833  when  much  structural  stone  was  being  removed  . ","label":[[46,52,"Time Period"]]}
+{"id":1519,"text":"The  present  evaluation  is  the  third  recorded  examination  of  the  site  by  excavation  . ","label":[]}
+{"id":1520,"text":"In  1933  Paul  Ashbee  conducted  small  scale  excavations  on  the  site  of  the  villa  (  Ashbee  1986  )  ,  and  in  1958  Elizabeth  Pirie  undertook  the  excavation  of  the  southern  end  of  the  villa  (  Site  A  )  and  an  adjacent  building  (  Site  B  )  on  behalf  of  the  Ministry  of  Works  (  Pirie  1960  )  in  advance  of  the  construction  of  the  Maidstone  By-pass  (  now  M20  )  . ","label":[[4,9,"Time Period"],[104,110,"Time Period"],[125,129,"Time Period"],[328,334,"Time Period"],[382,392,"Location"],[410,415,"Location"]]}
+{"id":1521,"text":"Aerial  photographs  commissioned  by  the  OAU  for  the  CTRL  EA  in  1990  (  RCHM  AP  TQ4569\/9  -  Plate  1  )  amplified  the  picture  of  the  site  by  indicating  the  plan  of  the  villa  building  examined  in  1933  . ","label":[[73,79,"Time Period"],[225,231,"Time Period"]]}
+{"id":1522,"text":"The  presence  nearby  of  an  aisled  building  ,  and  possibly  other  features  was  confirmed  by  a  geophysical  survey  over  the  villa  area  in  1995  (  Stratascan  1995  )  ,  conducted  as  a  preliminary  to  the  present  evaluation  (  Fig  . ","label":[[156,161,"Time Period"],[177,183,"Location"]]}
+{"id":1523,"text":"21  )  . ","label":[]}
+{"id":1524,"text":"A  further  geophysical  survey  (  Fig  . ","label":[]}
+{"id":1525,"text":"22  )  was  conducted  on  the  site  of  Corbier  Hall  (  URL  1996a  )  . ","label":[[42,56,"Location"]]}
+{"id":1526,"text":"An  interpretative  summary  of  the  aerial  photography  ,  geophysical  survey  s  and  evaluation  results  are  shown  in  Fig  . ","label":[]}
+{"id":1527,"text":"18  . ","label":[]}
+{"id":1528,"text":"The  air-photographic  plots  are  approximate  . ","label":[]}
+{"id":1530,"text":"The  solid  geology  is  Gault  Clay  ,  although  a  drift  deposit  of  yellowish  silty  clay  with  varying  amounts  of  flint  was  encountered  over  the  whole  of  the  evaluation  area  . ","label":[]}
+{"id":1531,"text":"In  some  locations  this  was  seen  to  be  underlain  by  Chalk  Head  . ","label":[]}
+{"id":1532,"text":"1.2.2  The  site  of  the  Roman  villa  lies  on  a  slight  knoll  (  ca  . ","label":[[27,33,"Time Period"]]}
+{"id":1533,"text":"75.5  m  OD  )  with  a  noticeable  dip  towards  a  dry  valley  in  the  centre  of  the  site  (  ca  . ","label":[]}
+{"id":1534,"text":"67.5  m  OD  )  . ","label":[]}
+{"id":1535,"text":"This  was  once  occupied  by  a  stream  flowing  south-west  from  Parsonage  Farm  (  now  Court  Farm  )  . ","label":[[69,85,"Location"],[94,106,"Location"]]}
+{"id":1536,"text":"Honeyhills  Wood  partly  encloses  the  villa  site  to  the  north  and  west  . ","label":[[0,17,"Location"]]}
+{"id":1537,"text":"Early  maps  show  that  the  boundary  of  this  wood  has  remained  substantially  the  same  for  at  least  300  years  ,  as  it  is  depicted  on  a  1709  map  of  Thurnham  Manor  by  John  Watts  (  Ashbee  1986  ,  144  )  . ","label":[[157,162,"Time Period"],[217,223,"Time Period"]]}
+{"id":1538,"text":"1.2.3  In  1833  the  site  was  described  as  ``  a  damp  clayey  meadow  ''  (  Ashbee  1986  ,  142  )  . ","label":[[11,17,"Time Period"],[92,98,"Time Period"]]}
+{"id":1539,"text":"The  land  was  being  broken  up  for  hop  cultivation  at  that  time  and  the  area  where  the  remains  were  discovered  appears  to  have  remained  in  arable  use  until  the  end  of  the  1914-18  war  . ","label":[[201,208,"Time Period"]]}
+{"id":1540,"text":"In  1933  Ashbee  excavated  in  a  ``  rough  ,  rabbit-ridden  ,  pasture  ,  victim  of  the  agricultural  depression  ''  but  the  land  returned  to  arable  in  the  1940s  . ","label":[[4,10,"Time Period"],[174,181,"Time Period"]]}
+{"id":1541,"text":"The  Ordnance  Surveyors  '  Drawing  of  1797  and  the  Tithe  Map  (  1825  )  depict  a  belt  of  trees  to  the  SE  of  the  villa  ,  which  by  the  time  of  the  first  edition  of  the  6-inch  series  (  1869  )  had  grown  to  become  a  block  of  woodland  (  Corbier  Hall  Wood  )  almost  linking  Honeyhills  Wood  with  Corbier  Hall  (  Fig  . ","label":[[42,48,"Time Period"],[73,78,"Time Period"],[217,223,"Time Period"],[277,297,"Location"],[318,335,"Location"],[342,356,"Location"]]}
+{"id":1542,"text":"19  )  . ","label":[]}
+{"id":1543,"text":"These  woods  and  the  remaining  field  boundaries  were  removed  from  the  1950s  onwards  . ","label":[[80,86,"Time Period"]]}
+{"id":1544,"text":"At  the  time  of  the  evaluation  the  entire  site  was  a  single  arable  field  which  had  recently  been  sown  with  grass  . ","label":[]}
+{"id":1545,"text":"2  AIMS  2.1  The  Written  Scheme  of  Investigation  outlined  seven  aims  of  the  evaluation  which  are  reiterated  below  . ","label":[]}
+{"id":1546,"text":"2.1.1  To  determine  the  presence\/absence  ,  extent  ,  condition  ,  character  ,  quality  and  date  of  any  archaeological  remains  within  the  evaluation  area  . ","label":[]}
+{"id":1547,"text":"2.1.2  To  determine  the  presence  and  potential  of  environmental  and  economic  indicators  preserved  in  any  archaeological  features  or  deposits  . ","label":[]}
+{"id":1548,"text":"2.1.3  To  determine  the  local  ,  regional  ,  national  and  international  importance  of  such  remains  ,  and  the  potential  for  further  archaeological  fieldwork  to  fulfil  local  ,  regional  and  national  research  objectives  . ","label":[]}
+{"id":1549,"text":"2.1.4  To  examine  the  extent  of  truncation  of  archaeological  deposits  by  modern  agricultural  practices  and  other  landuses  . ","label":[]}
+{"id":1550,"text":"2.1.5  To  examine  the  nature  and  character  of  building  s  and  other  structures  associated  with  the  main  villa  building  . ","label":[]}
+{"id":1552,"text":"2.1.7  To  examine  the  character  of  potential  features  recorded  during  the  geophysical  survey  to  the  south  of  Corbier  Hall  . ","label":[[125,139,"Location"]]}
+{"id":1553,"text":"3  METHODS  3.1  General  3  . ","label":[]}
+{"id":1554,"text":"1.1  A  detailed  specification  for  the  evaluation  was  agreed  by  Union  Railways  Limited  with  the  County  Archaeologist  and  English  Heritage  . ","label":[]}
+{"id":1555,"text":"The  following  is  intended  only  to  amplify  certain  aspects  of  the  evaluation  methodology  . ","label":[]}
+{"id":1556,"text":"3.2  Survey  3.2.1  The  trench  locations  were  surveyed  by  P  H  Matts  ,  Building  &  Civil  Engineering  Land  Survey  (  Reading  )  based  on  the  trench  location  plan  provided  by  URL  . ","label":[]}
+{"id":1557,"text":"Trenches  1130  ,  1131  and  1141  were  repositioned  in  the  field  to  avoid  disturbing  a  public  footpath  . ","label":[]}
+{"id":1558,"text":"The  trenches  have  been  plotted  (  Fig  . ","label":[]}
+{"id":1559,"text":"2  )  from  digital  information  provided  by  URL  using  AutoCAD  graphics  programme  with  manual  adjustments  to  the  trenches  indicated  . ","label":[]}
+{"id":1560,"text":"The  overall  site  plan  shows  the  URL  local  site  grid  which  is  different  to  the  National  Grid  . ","label":[]}
+{"id":1561,"text":"The  National  Grid  co-ordinates  were  provided  for  each  trench  and  are  shown  on  the  individual  trench  plans  (  Figs  . ","label":[]}
+{"id":1562,"text":"4  -  16  )  . ","label":[]}
+{"id":1563,"text":"Individual  trenches  were  planned  in  the  field  at  a  scale  of  1:50  or  1:100  . ","label":[]}
+{"id":1564,"text":"3.3  Excavation  3.3.1  Scheduled  Monuments  Consent  was  obtained  by  London  and  Continental  Engineering  from  the  Secretary  of  State  for  National  Heritage  . ","label":[[74,82,"Location"]]}
+{"id":1565,"text":"3.3.2  An  array  of  23  trenches  were  excavated  over  the  4  ha  site  ,  representing  a  sample  of  about  3  %  . ","label":[]}
+{"id":1566,"text":"Soil  was  removed  mechanically  generally  to  the  top  of  archaeologically  significant  deposits  . ","label":[]}
+{"id":1567,"text":"In  Trenches  1133  and  1127  deposits  which  were  partly  truncated  by  machine  may  have  been  archaeologically  significant  in  the  light  of  later  evidence  . ","label":[]}
+{"id":1568,"text":"It  is  also  possible  that  some  of  the  colluvial  deposits  partly  removed  by  machine  in  Trench  1128  were  of  some  archaeological  significance  . ","label":[]}
+{"id":1569,"text":"In  cases  where  fragile  archaeological  deposits  such  as  cobbled  surfaces  were  suspected  ,  machining  was  carried  out  conservatively  to  avoid  pulling  up  surfaces  and  associated  finds  . ","label":[]}
+{"id":1570,"text":"The  definition  of  some  deposits  was  therefore  tentative  . ","label":[]}
+{"id":1571,"text":"3.3.3  Trenches  were  excavated  to  a  depth  not  exceeding  1.2  m  ,  the  maximum  permitted  depth  for  the  trench  width  . ","label":[]}
+{"id":1572,"text":"This  was  sufficient  to  examine  deposits  of  archaeological  interest  . ","label":[]}
+{"id":1574,"text":"This  decision  was  made  with  the  agreement  of  the  LCE  Director  's  Representative  . ","label":[]}
+{"id":1575,"text":"3.3.4  The  trenches  were  hand-cleaned  except  it  cases  where  hand-cleaning  was  judged  to  be  unproductive  ,  either  because  a  combination  of  wet  ground  conditions  and  fragile  evidence  made  interference  with  archaeological  deposits  potentially  destructive  ,  or  when  archaeological  deposits  were  clearly  absent  . ","label":[]}
+{"id":1576,"text":"Individual  trenches  are  discussed  below  . ","label":[]}
+{"id":1577,"text":"3.3.5  In  view  of  the  extensive  archaeological  deposits  encountered  ,  many  of  them  stratified  ,  archaeological  excavation  was  limited  to  assessing  the  horizontal  and  vertical  extent  of  the  deposits  and  examining  sufficient  features  to  enable  the  site  to  be  characterised  and  the  other  aims  of  the  evaluation  to  be  addressed  (  Section  2  )  . ","label":[]}
+{"id":1578,"text":"3.4  Recording  3.4.1  Recording  followed  the  standard  OAU  single  context  recording  system  (  Wilkinson  ed  . ","label":[]}
+{"id":1579,"text":"1992  )  . ","label":[[0,6,"Time Period"]]}
+{"id":1580,"text":"Each  context  was  given  an  individual  context  number  prefixed  with  the  last  two  digits  of  the  CTRL  trench  number  (  eg  . ","label":[]}
+{"id":1581,"text":"Trench  1133  contained  contexts  3301  ,  3302  ... ","label":[]}
+{"id":1582,"text":"etc  .  )  . ","label":[]}
+{"id":1583,"text":"Context  numbers  are  in  italics  throughout  the  text  of  this  report  . ","label":[]}
+{"id":1584,"text":"All  evaluation  records  were  prefaced  by  the  site  code  ARC  THM  96  . ","label":[]}
+{"id":1585,"text":"4  RESULTS  :  GENERAL  4.1  Remains  of  the  Rom  an  villa  were  found  in  Trenches  1132  and  1133  . ","label":[[47,54,"Time Period"]]}
+{"id":1586,"text":"An  interpretation  of  the  walls  found  in  the  evaluation  in  relation  to  the  geophysical  survey  and  the  results  of  the  1933  and  1958  excavation  s  are  shown  in  Fig  . ","label":[[136,141,"Time Period"],[147,152,"Time Period"]]}
+{"id":1587,"text":"3  . ","label":[]}
+{"id":1588,"text":"4.2  The  aisled  building  was  located  in  Trenches  1128  and  1134  . ","label":[]}
+{"id":1589,"text":"Archaeological  deposits  of  Rom  an  and  Late  Iron  Age  date  were  found  in  all  the  remaining  trenches  at  the  NW  end  of  the  site  viz  . ","label":[[30,37,"Time Period"],[44,60,"Time Period"]]}
+{"id":1590,"text":"1131  ,  1130  ,  1129  ,  1127  ,  1135  and  1976  ,  and  a  scatter  of  features  probably  of  this  date  were  found  in  Trenches  1138  ,  1139  and  1141  . ","label":[]}
+{"id":1591,"text":"4.3  Trenches  south  of  Corbier  Hall  revealed  two  arms  of  a  large  ditch  ,  provisionally  interpreted  as  the  `  moat  '  and  associated  drainage  ditch  ,  in  Trenches  1142  ,  1143  and  1145  . ","label":[[26,40,"Location"]]}
+{"id":1592,"text":"It  had  been  infilled  and  levelled  recently  . ","label":[]}
+{"id":1593,"text":"There  were  no  medieval  finds  from  this  area  (  or  anywhere  on  the  site  )  and  no  features  which  appeared  to  be  related  to  medieval  Corbier  Hall  . ","label":[[17,26,"Time Period"],[144,153,"Time Period"],[154,168,"Location"]]}
+{"id":1594,"text":"4.4  The  main  components  of  the  trenches  are  described  below  . ","label":[]}
+{"id":1595,"text":"A  summary  of  all  the  archaeological  contexts  and  associated  finds  appear  in  the  Archaeological  Context  Inventory  (  Section  6  )  . ","label":[]}
+{"id":1596,"text":"Detailed  reports  on  the  pottery  ,  tile  ,  animal  bone  ,  environmental  remains  ,  flint  and  iron  and  stone  objects  are  contained  in  Appendices  1  -  6  . ","label":[[28,37,"Artefact"],[40,46,"Artefact"],[49,61,"Artefact"],[93,100,"Artefact"],[105,111,"Artefact"],[116,123,"Material"],[123,132,"Artefact"]]}
+{"id":1597,"text":"4.5  The  site  archive  has  been  compiled  in  accordance  with  the  specification  agreed  with  English  Heritage  and  the  County  Archaeologist  . ","label":[]}
+{"id":1599,"text":"5  TRENCH  DESCRIPTIONS  5.1  Rom  an  occupation  area  Trenches  across  villa  (  1133  and  1132  )  Trench  1133  (  Fig  . ","label":[[30,37,"Time Period"]]}
+{"id":1600,"text":"4  )  5  . ","label":[]}
+{"id":1601,"text":"1.1  Archaeological  deposits  were  encountered  directly  under  the  modern  ploughsoil  ,  which  was  200-350  mm  deep  . ","label":[[72,79,"Time Period"]]}
+{"id":1602,"text":"The  trench  was  cleaned  by  hand  and  excavations  limited  to  establishing  the  depth  of  surviving  stratigraphy  and  retrieving  dating  evidence  . ","label":[]}
+{"id":1603,"text":"5.1.2  The  villa  foundation  wall  s  3315  ,  3316  and  3321  were  immediately  evident  under  the  modern  soil  . ","label":[[19,38,"Context"],[106,113,"Time Period"]]}
+{"id":1604,"text":"A  further  parallel  wall  (  3320  )  and  a  cross-  wall  (  3317  )  were  revealed  after  the  excavation  of  deposit  3306  (  Plate  4  )  . ","label":[[12,26,"Context"],[48,60,"Context"]]}
+{"id":1605,"text":"This  was  a  quite  compact  ,  mixed  ,  stony  brown  silty  clay  which  was  interpreted  as  backfill  of  the  1933  excavation  trench  . ","label":[[118,124,"Time Period"]]}
+{"id":1606,"text":"Deposits  3302  and  3304  were  interpreted  in  the  same  terms  and  their  partial  removal  clarified  the  disposition  of  the  structural  features  here  . ","label":[]}
+{"id":1607,"text":"5.1.3  There  was  no  evidence  of  surviving  floor  surfaces  . ","label":[]}
+{"id":1608,"text":"However  ,  layer  3318  was  a  plough-scored  deposit  of  clean  orange  fine  gravel  and  silt  lying  between  wall  s  3320  and  3321  which  was  interpreted  as  a  floor  foundation  layer  . ","label":[[117,124,"Context"],[175,199,"Context"]]}
+{"id":1609,"text":"Spreads  of  relatively  clean  clay  (  3313  ,  3319  and  3322  )  ,  brown  or  greenish  grey  in  colour  ,  also  suggested  floor  foundation  layers  . ","label":[[132,157,"Context"]]}
+{"id":1610,"text":"Patches  of  chalk  with  flints  (  3324  )  and  flints  within  a  darker  silty  matrix  (  3329  )  may  also  have  been  related  to  floor  make-up  . ","label":[[26,34,"Artefact"],[51,59,"Artefact"]]}
+{"id":1611,"text":"5.1.4  The  non-survival  of  floor  surfaces  indicates  that  the  surviving  `  wall  s  '  represent  only  the  wall-footings  . ","label":[[83,90,"Context"]]}
+{"id":1612,"text":"All  the  wall  -  footings  were  of  a  superficially  similar  appearance  ,  consisting  of  flint  and  \/or  ragstone  rubble  in  an  orange  sandy  mortar  . ","label":[[10,27,"Context"],[97,104,"Material"],[114,130,"Material"]]}
+{"id":1613,"text":"Wall  3321  had  a  darker  silty  matrix  with  orange  mottling  . ","label":[[0,6,"Context"]]}
+{"id":1614,"text":"Walls  3315  ,  3316  and  3321  were  of  flint  construction  ,  3320  had  a  flint  core  with  facing  stones  of  ragstone  ,  and  the  cross-  wall  3317  was  of  ragstone  . ","label":[[0,7,"Context"],[43,50,"Material"],[81,92,"Material"],[120,130,"Material"],[143,155,"Context"],[172,182,"Material"]]}
+{"id":1615,"text":"The  upper  surfaces  of  the  wall  s  ,  as  exposed  ,  tended  to  be  quite  loose  with  inclusions  of  darker  soil  . ","label":[[31,38,"Context"]]}
+{"id":1616,"text":"It  was  tentatively  suggested  that  shallow  robber  trenches  could  be  identified  (  Cuts  3311  and  3331  )  but  it  is  possible  ,  and  perhaps  more  likely  ,  that  this  was  the  result  of  superficial  plough  disturbance  allied  to  natural  weathering  . ","label":[]}
+{"id":1617,"text":"5.1.5  Three  of  the  wall  s  (  3315  ,  3320  and  3321  )  were  examined  with  slots  excavated  up  against  them  . ","label":[[23,30,"Context"]]}
+{"id":1618,"text":"Walls  3320  and  3321  were  only  200  mm  and  100  mm  deep  respectively  . ","label":[[0,7,"Context"]]}
+{"id":1619,"text":"The  base  of  3315  was  ,  however  ,  not  reached  within  the  excavation  which  stopped  at  the  natural  clay  (  3326  )  about  300  mm  down  . ","label":[]}
+{"id":1620,"text":"No  clear  wall  foundation  trenches  were  found  (  even  where  the  wall  cut  the  natural  )  so  it  seems  that  the  foundation  trenches  were  cut  precisely  to  the  width  of  the  foundations  . ","label":[[11,37,"Context"],[73,79,"Context"],[127,147,"Context"]]}
+{"id":1622,"text":"7.2  )  ,  which  do  not  appear  to  be  the  result  of  dumping  . ","label":[]}
+{"id":1623,"text":"However  ,  the  excavations  were  of  an  insufficient  scale  to  be  sure  of  the  constructional  technique  ,  and  it  is  furthermore  intrinsically  likely  that  several  phases  of  construction  are  present  and  that  more  than  one  technique  might  have  been  employed  . ","label":[]}
+{"id":1624,"text":"5.1.6  Walls  3315  ,  3320  and  3321  cut  through  a  dark  grey-brown  clayey  silt  layer  200-300  mm  thick  (  Layers  3314  ,  3323  and  3330  respectively  )  . ","label":[[7,14,"Context"]]}
+{"id":1625,"text":"These  seemed  to  represent  a  general  soil  development  pre-dating  the  construction  of  the  villa  . ","label":[]}
+{"id":1626,"text":"No  finds  came  from  these  deposits  . ","label":[]}
+{"id":1627,"text":"They  overlay  a  mid  brown  silt-clay  3325  which  was  interpreted  as  an  in  situ  Roman  subsoil  . ","label":[[90,96,"Time Period"]]}
+{"id":1628,"text":"West  of  Wall  3315  this  occupied  a  natural  hollow  in  the  underlying  light  brown  clay  . ","label":[[10,16,"Context"]]}
+{"id":1629,"text":"5.1.7  At  the  western  end  of  the  trench  the  modern  ploughsoil  overlay  a  dark  greyish  brown  clay  loam  3312  containing  abundant  tile  as  well  as  flecks  of  mortar  and  other  cultural  material  . ","label":[[52,59,"Time Period"],[146,152,"Artefact"],[166,184,"Artefact"]]}
+{"id":1630,"text":"It  was  initially  interpreted  as  an  accumulation  post-dating  the  abandonment  of  the  villa  . ","label":[]}
+{"id":1631,"text":"Since  machine-stripping  started  at  this  end  of  the  trench  it  was  at  the  time  unclear  how  this  layer  related  to  the  surviving  villa  deposits  and  the  layer  was  largely  machine-excavated  . ","label":[]}
+{"id":1632,"text":"However  ,  the  surface  of  the  layer  lies  at  the  same  level  as  the  Rom  an  layers  relating  to  the  building  itself  ,  so  it  is  clear  that  3312  is  archaeologically  significant  if  not  necessarily  contemporary  with  the  use  of  the  villa  . ","label":[[79,86,"Time Period"]]}
+{"id":1633,"text":"Trench  1132  (  Fig  . ","label":[]}
+{"id":1634,"text":"5  )  5.1.8  An  earlier  post-  Roman  soil  3208  (  possibly  a  ploughsoil  )  was  encountered  under  the  modern  ploughsoil  . ","label":[[26,38,"Time Period"],[113,120,"Time Period"]]}
+{"id":1635,"text":"This  was  thin  or  non-existent  at  the  southern  end  of  the  trench  ,  but  deepened  towards  the  north  . ","label":[]}
+{"id":1636,"text":"This  sealed  earlier  features  and  was  also  removed  by  machine  . ","label":[]}
+{"id":1637,"text":"A  similar  soil  ,  3207  ,  filled  the  top  of  wall  -trench  3204  . ","label":[]}
+{"id":1638,"text":"It  yielded  a  post-medieval  sherd  and  may  have  been  related  to  the  robbing  of  the  wall  . ","label":[[16,30,"Time Period"],[31,38,"Artefact"],[96,102,"Context"]]}
+{"id":1639,"text":"5.1.9  As  in  Trench  1133  ,  there  was  no  evidence  of  floor  surfaces  ,  but  irregular  spreads  of  greenish  grey  clay  (  3227  )  ,  brown  clay  (  3229  )  and  yellowish  brown  clay  (  3212  )  may  represent  floor  foundations  . ","label":[[62,77,"Context"],[230,248,"Context"]]}
+{"id":1640,"text":"Layer  3212  actually  lay  beyond  what  was  interpreted  as  the  N  wall  of  the  villa  (  3205  )  and  may  rather  be  upcast  from  the  excavation  of  the  wall  foundation  trench  (  3204  )  . ","label":[[72,78,"Context"],[168,192,"Context"]]}
+{"id":1641,"text":"5.1.10  The  probable  wall  foundation  3205  was  examined  by  excavation  . ","label":[[23,39,"Context"]]}
+{"id":1642,"text":"It  was  found  to  consist  exclusively  of  flint  nodules  filling  a  trench  700  mm  deep  . ","label":[[46,53,"Material"],[53,62,"Artefact"]]}
+{"id":1643,"text":"Although  originally  thought  to  be  a  possible  drainage  feature  or  robber  trench  ,  it  appears  to  be  of  the  same  character  as  the  `  early  phase  '  of  villa  construction  identified  by  Pirie  (  Pirie  1960  ,  142  )  . ","label":[[52,69,"Context"],[75,89,"Context"],[228,234,"Time Period"]]}
+{"id":1644,"text":"The  other  wall  s  were  bonded  with  orange  sandy  mortar  and  appeared  similar  to  those  in  Trench  1133  . ","label":[[12,19,"Context"]]}
+{"id":1645,"text":"Wall  3232  was  the  only  one  examined  by  excavation  and  was  shown  to  consist  of  a  single  course  of  ragstone  rubble  overlying  a  flint  rubble  base  (  3233  )  of  the  same  width  . ","label":[[0,6,"Context"],[148,155,"Material"],[155,167,"Context"]]}
+{"id":1646,"text":"The  depth  of  the  foundation  was  about  300  mm  ,  reaching  natural  clay  . ","label":[]}
+{"id":1647,"text":"Wall  3226  also  had  a  ragstone  surface  ,  while  3238  was  flint  y  . ","label":[[0,6,"Context"],[26,36,"Material"],[66,74,"Material"]]}
+{"id":1648,"text":"5.1.11  There  were  a  few  other  discrete  features  revealed  under  the  machine-excavated  overburden  . ","label":[]}
+{"id":1650,"text":"This  may  represent  the  truncated  remains  of  a  small  pit  (  apparently  cut  by  wall  foundation  trench  3204  )  with  a  receptacle  placed  in  it  . ","label":[]}
+{"id":1651,"text":"Two  circular  charcoal  patches  ,  3223  and  3224  ,  may  have  been  post-holes.  5.1.12  Under  clay  layers  3231\/3227  and  3212  was  a  relatively  clean  ,  homogeneous  ,  dark  clay  silt  ,  3213  ,  which  directly  overlay  the  natural  clay  (  3214  )  . ","label":[[15,25,"Material"],[25,34,"Context"],[74,84,"Context"]]}
+{"id":1652,"text":"This  layer  was  100-150  mm  thick  in  the  slots  where  it  was  examined  ,  and  contained  no  building  debris  or  other  finds  . ","label":[]}
+{"id":1653,"text":"It  seems  to  represent  a  soil  accumulation  pre-dating  the  construction  of  the  villa  ,  or  ,  perhaps  less  likely  ,  a  layer  deposited  to  level  the  ground  . ","label":[]}
+{"id":1654,"text":"5.1.13  Beyond  the  villa  building  to  the  north  ,  a  uniform  spread  of  dark  grey-brown  clayey  silt  containing  building  debris  ,  3219  ,  was  interpreted  as  relating  to  the  abandonment  and  destruction  of  the  villa  although  no  dating  evidence  was  retrieved  . ","label":[]}
+{"id":1655,"text":"The  deposit  was  examined  with  a  single  slot  at  the  northern  end  which  revealed  the  edge  of  a  possible  ditch  ,  3202  ,  overlain  by  a  deposit  of  flint  nodules  ,  3218  . ","label":[[170,177,"Material"],[177,186,"Artefact"]]}
+{"id":1656,"text":"These  features  were  undated  . ","label":[]}
+{"id":1657,"text":"Ditch  3202  cut  an  earlier  gully  ,  3201  ,  which  yielded  1st-century  pot  tery  . ","label":[[66,77,"Time Period"],[79,88,"Artefact"]]}
+{"id":1658,"text":"Trenches  across  aisled  building  (  1134  and  1128  )  Trench  1134  (  Figs  . ","label":[]}
+{"id":1659,"text":"6  &  7  )  5.1.14  The  trench  was  positioned  across  the  width  of  the  aisled  building  . ","label":[]}
+{"id":1660,"text":"Archaeological  deposits  were  revealed  directly  under  the  modern  ploughsoil  which  was  400  mm  thick  . ","label":[[64,71,"Time Period"]]}
+{"id":1661,"text":"The  trench  was  hand-cleaned  and  two  slots  excavated  . ","label":[]}

@@ -1,0 +1,45 @@
+{
+  "http://purl.org/heritagedata/schemes/eh_tbm" : {
+    "http://www.w3.org/1999/02/22-rdf-syntax-ns#type" : [
+      { "value" : "http://www.w3.org/2004/02/skos/core#ConceptScheme", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#license" : [
+      { "value" : "http://creativecommons.org/licenses/by/3.0", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionURL" : [
+      { "value" : "http://www.historicengland.org.uk", "type" : "uri" }
+    ],
+    "http://creativecommons.org/ns#attributionName" : [
+      { "value" : "Historic England", "type" : "literal", "lang" : "en" }
+    ],
+    "http://purl.org/dc/terms/title" : [
+      { "value" : "FISH Building Materials Thesaurus", "type" : "literal", "lang" : "en" }
+    ],
+    "http://www.w3.org/2000/01/rdf-schema#label" : [
+      { "value" : "FISH Building Materials Thesaurus", "type" : "literal", "lang" : "en" }
+    ],
+    "http://www.w3.org/2004/02/skos/core#hasTopConcept" : [
+      { "value" : "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98238", "type" : "uri" },
+      { "value" : "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98058", "type" : "uri" },
+      { "value" : "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98216", "type" : "uri" },
+      { "value" : "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98046", "type" : "uri" },
+      { "value" : "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98265", "type" : "uri" },
+      { "value" : "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98041", "type" : "uri" },
+      { "value" : "http://purl.org/heritagedata/schemes/eh_tbm/concepts/98053", "type" : "uri" },
+      { "value" : "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97903", "type" : "uri" },
+      { "value" : "http://purl.org/heritagedata/schemes/eh_tbm/concepts/97712", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/description" : [
+      { "value" : "Terminology used for recording the main construction materials of monuments, buildings and structures relating to the built and buried heritage of the British Isles. Maintained by Historic England on behalf of the FISH Terminology Working Group", "type" : "literal", "lang" : "en" }
+    ],
+    "http://purl.org/dc/terms/publisher" : [
+      { "value" : "http://www.historicengland.org.uk", "type" : "uri" }
+    ],
+    "http://purl.org/dc/terms/identifier" : [
+      { "value" : "http://purl.org/heritagedata/schemes/eh_tbm", "type" : "literal" }
+    ],
+    "http://purl.org/dc/terms/issued" : [
+      { "value" : "2019-07-17", "type" : "literal", "datatype" : "http://www.w3.org/2001/XMLSchema#date" }
+    ]
+  } 
+}

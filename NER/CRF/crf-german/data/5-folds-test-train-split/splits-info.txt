@@ -1,0 +1,5 @@
+fold1: test = fold1, val = fold2, train = fold 3,4,5
+fold2: test = fold2, val = fold3, train = fold 4,5,1
+fold3: test = fold3, val = fold4, train = fold 5,1,2
+fold4: test = fold4, val = fold5, train = fold 1,2,3
+fold5: test = fold5, val = fold1, train = fold 2,3,4

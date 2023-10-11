@@ -1,0 +1,6 @@
+Time Period|PER
+Artefact|ART
+Material|MAT
+Species|SPE
+Location|LOC
+Context|CON
