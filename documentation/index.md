@@ -8,14 +8,14 @@
 Depends to some extent on the size of the index, so the number of documents you are indexing. The requirements below will need to be scaled up depending on your corpus.
 
 Minimal:
-	- 2 (v)CPU cores
-	- 2GB (v)RAM
-	- 200GB storage (mainly for HTML previews, see section below)
+- 2 (v)CPU cores
+- 2GB (v)RAM
+- 200GB storage (mainly for HTML previews, see section below)
 	
 AGNES current specs, for 180.000 documents:
-	- 6 vCPU cores
-	- 8GB vRAM
-	- 2TB storage
+- 6 vCPU cores
+- 8GB vRAM
+- 2TB storage
 
 #### Install
 - Install OS (Ubuntu/CentOS preferred)

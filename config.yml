@@ -9,7 +9,7 @@ data_source:
     html_folder: /media/alex/Data/agnes_data/dans/html/
     json_folder: /media/alex/Data/agnes_data/dans/json/
     language: dutch
-    last_indexed_date: '2022-07-24T22:00:00Z'
+    last_indexed_date: '2022-08-02T22:00:00Z'
     pdf_folder: /media/alex/Data/agnes_data/dans/pdf/
   kb:
     document_metadata: /media/alex/Data/agnes_data/kb/document_metadata.csv
