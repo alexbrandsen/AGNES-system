@@ -1,0 +1,41 @@
+bert_models:
+  dutch: /media/alex/Data/agnes_models/ArcheoBERTje-NER
+  english: /media/alex/Data/agnes_models/ArchaeoBERT-NER
+  german: /media/alex/Data/agnes_models/bert-base-german-cased-archaeo-NER
+data_source:
+  dans:
+    endpoint_url: https://archaeology.datastations.nl/api/
+    harvest_log_location: /media/alex/Data/agnes_data/dans/harvest_logs/
+    html_folder: /media/alex/Data/agnes_data/dans/html/
+    json_folder: /media/alex/Data/agnes_data/dans/json/
+    language: dutch
+    last_indexed_date: '2022-07-24T22:00:00Z'
+    pdf_folder: /media/alex/Data/agnes_data/dans/pdf/
+  kb:
+    document_metadata: /media/alex/Data/agnes_data/kb/document_metadata.csv
+    html_folder: /media/alex/Data/agnes_data/kb/html/
+    json_folder: /media/alex/Data/agnes_data/kb/json/
+    language: dutch
+    pdf_folder: /media/alex/Data/agnes_data/kb/pdf/
+  onroerend_erfgoed:
+    endpoint_url: https://loket.onroerenderfgoed.be/archeologie/rapporten/eindverslagen/
+    harvest_log_location: /media/alex/Data/agnes_data/onroerend_erfgoed/harvest_logs/
+    html_folder: /media/alex/Data/agnes_data/onroerend_erfgoed/html/
+    json_folder: /media/alex/Data/agnes_data/onroerend_erfgoed/json/
+    language: dutch
+    last_indexed_id: 3265
+    pdf_folder: /media/alex/Data/agnes_data/onroerend_erfgoed/pdf/
+  onroerend_erfgoed_notas:
+    endpoint_url: https://loket.onroerenderfgoed.be/archeologie/notas/notas/
+    harvest_log_location: /media/alex/Data/agnes_data/onroerend_erfgoed_notas/harvest_logs/
+    html_folder: /media/alex/Data/agnes_data/onroerend_erfgoed_notas/html/
+    json_folder: /media/alex/Data/agnes_data/onroerend_erfgoed_notas/json/
+    language: dutch
+    last_indexed_id: 32332
+    pdf_folder: /media/alex/Data/agnes_data/onroerend_erfgoed_notas/pdf/
+webserver:
+  html_folder: /mnt/big_storage/html/
+  ip: 136.144.205.98
+  json_folder: /home/alexbrandsen/json_to_be_imported/
+  ssh_port: 22
+  ssh_user: alexbrandsen

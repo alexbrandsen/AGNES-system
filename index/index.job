@@ -1,0 +1,58 @@
+#!/bin/bash
+
+# reset everything
+#SBATCH --export=NONE
+
+# number of nodes
+#SBATCH --nodes=1
+
+# number of tasks per node (always 1, unless you're doing fancy stuff)
+#SBATCH --ntasks=1
+
+# number of cpus per task (if multithreading, set to max 24)
+##SBATCH--cpus-per-task=24
+
+# time you think your job will take (process will end after this time!)
+#SBATCH --time=3-00:00:00 
+
+# number of gpus you want to run your job on
+#SBATCH --gres=gpu:1
+
+# memory needed (max ~370G per node)
+#SBATCH --mem=200G 
+
+# which partition you want to send the job to (view partitions with 'sinfo')
+#SBATCH --partition=gpu-long
+
+# email adress to contact with notifications
+#SBATCH --mail-user=a.brandsen@arch.leidenuniv.nl
+
+# when to send notifications <BEGIN|END|FAIL|REQUEUE|ALL>
+#SBATCH --mail-type="ALL"
+
+# log location
+#SBATCH --output=/home/brandsena/xml2elastic-crf/convert-log-%x-%j.log
+
+# --------------------------------------------
+
+# load server modules
+#module load PyTorch/1.3.1-fosscuda-2019b-Python-3.7.4
+module load PyTorch/1.10.0-foss-2021a-CUDA-11.3.1
+
+
+# local pip install
+#pip install --upgrade --no-deps --force-reinstall --user transformers==3.0.2 # force version 
+pip install seqeval tensorboardX tqdm scikit-learn sklearn_crfsuite conllu datasets langdetect fuzzywuzzy transformers PyPDF2 nltk editdistance pycryptodome --user
+#pip install python-Levenshtein --user --no-use-pep517
+# transformers==2.3.0 
+
+# move to script directory
+cd /home/brandsena/xml2elastic-crf/
+
+# run script(s)
+#nvidia-smi
+
+python3 /home/brandsena/xml2elastic-crf/convert.py 
+
+
+wait

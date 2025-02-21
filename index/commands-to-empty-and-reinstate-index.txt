@@ -1,0 +1,7 @@
+# empty the index by:
+curl -XDELETE 'http://132.229.16.43:9200/agnesv03_withfacets?pretty'
+
+# then create mapping with
+curl -H 'Content-Type: application/json' -H 'Accept: application/json' -X PUT -d '{  "mappings": {	"document": {"properties":{"location":{"type":"geo_point"},"subjects":{"type":"text","fields":{"keyword":{"type":"keyword"}}},"file_type":{"type":"text","fields":{"keyword":{"type":"keyword"}}},"temporals":{"type":"text","fields":{"keyword":{"type":"keyword"}}} }},	"page": {	  "_parent": {		"type": "document"	   }	}  }}' 'http://132.229.16.43:9200/agnesv03_withfacets?pretty'
+
+curl http://132.229.16.43:9200/agnesv03_withfacets/_count
