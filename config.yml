@@ -3,13 +3,19 @@ bert_models:
   english: /media/alex/Data/agnes_models/ArchaeoBERT-NER
   german: /media/alex/Data/agnes_models/bert-base-german-cased-archaeo-NER
 data_source:
+  archis:
+    harvest_log_location: /media/alex/Data/agnes_data/archis/harvest_logs/
+    html_folder: /media/alex/Data/agnes_data/archis/html/
+    json_folder: /media/alex/Data/agnes_data/archis/json/
+    language: dutch
+    pdf_folder: /media/alex/Data/agnes_data/archis/Archis_rapporten_2023/docs
   dans:
     endpoint_url: https://archaeology.datastations.nl/api/
     harvest_log_location: /media/alex/Data/agnes_data/dans/harvest_logs/
     html_folder: /media/alex/Data/agnes_data/dans/html/
     json_folder: /media/alex/Data/agnes_data/dans/json/
     language: dutch
-    last_indexed_date: '2022-08-02T22:00:00Z'
+    last_indexed_date: '2025-03-20T14:29:32Z'
     pdf_folder: /media/alex/Data/agnes_data/dans/pdf/
   kb:
     document_metadata: /media/alex/Data/agnes_data/kb/document_metadata.csv
@@ -23,7 +29,7 @@ data_source:
     html_folder: /media/alex/Data/agnes_data/onroerend_erfgoed/html/
     json_folder: /media/alex/Data/agnes_data/onroerend_erfgoed/json/
     language: dutch
-    last_indexed_id: 3265
+    last_indexed_id: 3317
     pdf_folder: /media/alex/Data/agnes_data/onroerend_erfgoed/pdf/
   onroerend_erfgoed_notas:
     endpoint_url: https://loket.onroerenderfgoed.be/archeologie/notas/notas/
@@ -31,8 +37,14 @@ data_source:
     html_folder: /media/alex/Data/agnes_data/onroerend_erfgoed_notas/html/
     json_folder: /media/alex/Data/agnes_data/onroerend_erfgoed_notas/json/
     language: dutch
-    last_indexed_id: 32332
+    last_indexed_id: 32763
     pdf_folder: /media/alex/Data/agnes_data/onroerend_erfgoed_notas/pdf/
+  sidestone:
+    harvest_log_location: /media/alex/Data/agnes_data/sidestone/harvest_logs/
+    html_folder: /media/alex/Data/agnes_data/sidestone/html/
+    json_folder: /media/alex/Data/agnes_data/sidestone/json/
+    language: dutch
+    pdf_folder: /media/alex/Data/agnes_data/sidestone/pdf/
 webserver:
   html_folder: /mnt/big_storage/html/
   ip: 136.144.205.98

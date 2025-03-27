@@ -282,7 +282,7 @@ def pdf2html(file_location,htmlDir):
             print (errormsg)
             os.rmdir(htmlDir)
         else:
-            print ("Converted " + file_location + " to html!")
+            print ("Converted " + file_location + " to html")
 
     else:
         print (file_location + " html folder already exists, skipping")
@@ -309,6 +309,7 @@ class MySFTPClient(paramiko.SFTPClient):
         '''
         for item in os.listdir(source):
             if os.path.isfile(os.path.join(source, item)):
+                #print(os.path.join(source, item))
                 self.put(os.path.join(source, item), '%s/%s' % (target, item))
             else:
                 self.mkdir('%s/%s' % (target, item), ignore_existing=True)
@@ -345,6 +346,8 @@ def upload2webserver(json_source, html_source, source_name, json_target, html_ta
         source_path = f"{json_source}{folder}"
         target_path = f"{json_target}{source_name}/{folder}"
         
+        #print(target_path)
+        
         sftp.mkdir(target_path, ignore_existing=True)
         sftp.put_dir(source_path, target_path)
 
@@ -356,6 +359,8 @@ def upload2webserver(json_source, html_source, source_name, json_target, html_ta
 
         source_path = f"{html_source}{folder}"
         target_path = f"{html_target}{source_name}/{folder}"
+        
+        #print(target_path)
         
         sftp.mkdir(target_path, ignore_existing=True)
         sftp.put_dir(source_path, target_path)

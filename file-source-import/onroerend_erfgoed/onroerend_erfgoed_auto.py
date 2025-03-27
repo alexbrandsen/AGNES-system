@@ -113,7 +113,7 @@ while 'next' in response.links:
     # Sleep for half a second, so we don't overload the server
     time.sleep(0.5)
   
-#logging.info(len(data))
+logging.info(f"fetched {len(data)} datasets")
 
 
 # go through projects
