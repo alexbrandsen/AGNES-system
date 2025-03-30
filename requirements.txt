@@ -1,0 +1,10 @@
+pyproj
+numpy == 1.26.4
+transformers
+accelerate
+pandas
+PyPDF2
+NLTK
+editdistance
+paramiko
+func_timeout

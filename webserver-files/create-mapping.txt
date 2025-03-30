@@ -1,0 +1,48 @@
+curl -H 'Content-Type: application/json' -H 'Accept: application/json' -X PUT -d '
+{
+  "mappings":{
+    "properties":{
+    "document":{
+      "type":"nested",
+      "properties":{
+        "pages":{
+          "type":"nested",
+          "properties":{
+            "timespans":{
+              "type":"nested"
+            }
+          }
+        },
+        "location":{
+          "type":"geo_point"
+        },
+        "subjects":{
+          "type":"text",
+          "fields":{
+            "keyword":{
+              "type":"keyword"
+            }
+          }
+        },
+        "file_type":{
+          "type":"text",
+          "fields":{
+            "keyword":{
+              "type":"keyword"
+            }
+          }
+        },
+        "temporals":{
+          "type":"text",
+          "fields":{
+            "keyword":{
+              "type":"keyword"
+            }
+          }
+        }
+      }
+    }
+  }
+}
+}
+' 'localhost:9200/YOUR-INDEX-NAME-HERE?pretty'
