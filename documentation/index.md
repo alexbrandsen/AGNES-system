@@ -31,8 +31,9 @@ AGNES current specs, for 180.000 documents:
 - Install PHP
 - Install Python3
 - Install ElasticSearch, version 7.14 (or higher, but tested on 7.14)
+- Run `sudo service elasticsearch start` to start ElasticSearch
 - Install elasticsearch-php (https://github.com/elastic/elasticsearch-php)
-- Create an index in ElasticSearch
+- Create an index in ElasticSearch using `curl -X PUT "localhost:9200/YOUR-INDEX-NAME-HERE1?pretty"`
 - Open file `/webserver-files/create-mapping.txt`, edit the index name (`YOUR-INDEX-NAME-HERE`) at the bottom to match your chosen index name, then copy and run the command on your webserver
 - Copy files from `/webserver-files/html/` to the html folder for your domain
 - Edit the file index.php; update the logo, text, design, etc, to match your own project
