@@ -4,7 +4,7 @@ AGNES stands for Archaeological Grey-literature Named Entity Search, and is an i
 
 ## Contents
 
-This repository contains the [documentation](documentation) and all the code needed to recreate this system. The structure is as follows:
+This repository contains the [documentation](documentation/index.md) and all the code needed to recreate this system. The structure is as follows:
 
 - [requirements.txt](requirements.txt) contains all the Python requirements
 - [config.yml](config.yml) contains the configuration for the system (see documentation for more info)
@@ -12,6 +12,6 @@ This repository contains the [documentation](documentation) and all the code nee
 - [webserver-files](webserver-files) contains the code that is needed on the webserver
 - [results-post-processing](results-post-processing) contains Excel worksheets to further process and filter the output of the CSV export function
 - [misc-tools](misc-tools) contains some scripts to convert between file formats, get website analytics, and extract coordinates (not currently used in AGNES)
-- [NER](NER) contains old - currently not used - CRF models and code to do NER (replaced with BERT now)
+- [NER](NER) contains old - currently not used - CRF models and code to do NER (replaced with BERT now) 
 
 
