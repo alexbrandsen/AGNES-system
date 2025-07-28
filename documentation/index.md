@@ -1,6 +1,6 @@
 # Documentation
 
-This document gives an overview of the AGNES system, and how to replicate the software for your own purposes. 
+This document gives an overview of the AGNES system, and how to replicate the software for your own purposes. Please note that this is not an off-the-shelf software package that can be deployed with a few commands; fairly significant modifications and customisations are needed to make the system work for your purposes. This document should provide you with all the steps needed to get the system up and running with any PDF document collection, either stored locally or harvested from an archive (or multiple archives).
 
 ## Requirements and Installation
 
@@ -36,10 +36,10 @@ AGNES current specs, for 180.000 documents:
 - Create an index in ElasticSearch using `curl -X PUT "localhost:9200/YOUR-INDEX-NAME-HERE1?pretty"`
 - Open file `/webserver-files/create-mapping.txt`, edit the index name (`YOUR-INDEX-NAME-HERE`) at the bottom to match your chosen index name, then copy and run the command on your webserver
 - Copy files from `/webserver-files/html/` to the html folder for your domain
-- Edit the file index.php; update the logo, text, design, etc, to match your own project
+- Edit the file index.php; update the logo, text, design, etc, to match your own project. Also make sure to update all the code related to specific archives, change this to your own archive(s).
 - Create a folder to hold the HTML versions of the documents, to load as page previews. This folder can get pretty big pretty fast, in our case we put this folder in a separate big storage drive added to the VPS. Make sure to set the permissions and owner of this folder so Apache can access it and serve it to users.
-- Create a folder to hold the JSON that the Processing Machine creates. This folder should not be publicly accessible. Also create a folder to hold the JSON that has been indexed. The default folders for this are `/home/USERNAME/json_to_be_imported` and `/home/USERNAME/json_has_been_imported`. Also create a folder at `/home/USERNAME/json_import_logs` to hold the import logs.
-- Copy `/webserver-files/upload-json-to-elasticsearch.py` to a (non public / non www) folder somewhere on your webserver. Open the file, and edit the JSON folder location and ElasticSearch index name at the top. 
+- Create a folder to hold the JSON that the Processing Machine creates. This folder should not be publicly accessible. Also create a folder to hold the JSON that has been indexed. The default folders for this are `/home/USERNAME/json_to_be_imported` and `/home/USERNAME/json_has_been_imported`. For each archive you are harvesting, add a folder within these folders, e.g. `/home/USERNAME/json_to_be_imported/dans` for the DANS archive. Also create a folder at `/home/USERNAME/json_import_logs` to hold the import logs.
+- Copy `/webserver-files/upload-json-to-elasticsearch.py` to a (non public / non www) folder somewhere on your webserver. Open the file, and edit the JSON folder location and ElasticSearch index name at the top, as well as the names of the allowed sources. 
 
 			
 ### Processing Machine
