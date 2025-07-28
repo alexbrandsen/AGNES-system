@@ -351,7 +351,13 @@ def upload2webserver(json_source, html_source, source_name, json_target, html_ta
         sftp.mkdir(target_path, ignore_existing=True)
         sftp.put_dir(source_path, target_path)
 
-        shutil.move(source_path, source_path.replace('/json/','/json-UPLOADED/'))
+	# If destination exists, remove it first
+        dest_path = source_path.replace('/json/', '/json-UPLOADED/')
+        if os.path.exists(dest_path):
+            shutil.rmtree(dest_path)
+
+	# Move source to destination
+        shutil.move(source_path, dest_path)
 
     # upload html and move to html-UPLOADED folder
     for folder in os.listdir(html_source):
@@ -365,7 +371,13 @@ def upload2webserver(json_source, html_source, source_name, json_target, html_ta
         sftp.mkdir(target_path, ignore_existing=True)
         sftp.put_dir(source_path, target_path)
 
-        shutil.move(source_path, source_path.replace('/html/','/html-UPLOADED/'))
+        # If destination exists, remove it first
+        dest_path = source_path.replace('/html/','/html-UPLOADED/')
+        if os.path.exists(dest_path):
+            shutil.rmtree(dest_path)
+
+	# Move source to destination
+        shutil.move(source_path, dest_path)
         
     # close connection
     sftp.close()

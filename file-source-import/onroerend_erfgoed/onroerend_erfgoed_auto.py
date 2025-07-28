@@ -156,7 +156,8 @@ for project in data:
                 output_document['title'] = title
                 creators = []
                 for auteur in doc['auteurs']:
-                    creators.append(auteur['auteur'])
+                    if 'auteur' in auteur:
+                        creators.append(auteur['auteur'])
                 output_document['creators'] = creators
                 output_document['description'] = '' # no descriptions in this data source
                 output_document['publisher'] = project['archeoloog']
