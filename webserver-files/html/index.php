@@ -715,7 +715,7 @@
 <!--script src="assets/js/plugins/bootstrap-switch.js"></script-->
 
 <!--  Google Maps     -->
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCI_XzMeSnFoCcp11evwxxITbc8dtsqJ6c&libraries=drawing"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=YOUR_KEY_GOES_HERE&libraries=drawing"></script>
 <script src="assets/js/plugins/wmsMapType.js"></script>
 
 <!--  Chartist Plugin  -->
