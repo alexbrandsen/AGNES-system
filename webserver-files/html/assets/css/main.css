@@ -1,0 +1,184 @@
+
+
+/* AGNES SPECIFIC */
+
+.textaligncenter {
+	text-align:center;
+}
+.textalignright {
+	text-align:right;
+}
+
+.sidebar .logo {
+	padding: 12px;
+	text-align:center;
+}
+.sidebar hr {
+	border-top: 1px solid rgba(255,255,255,.3);
+}
+
+.logo img {
+	max-width:60%;
+}
+
+.sidesearch {
+	margin-top:20px;
+	padding:0 10px;
+	-webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+.sidesearch a {
+	color:inherit;
+}
+.sidesearch .dropdown-menu a {
+	color:#23ccef;
+}
+.sidesearch .dropdown-toggle::after {
+	display:none;
+}
+.sidesearch input {
+	width:100%;
+	margin-bottom:7px;
+}
+.sidesearch label {
+	margin-bottom:1px;
+	display:inline;
+}
+
+
+.show .dropdown-menu {
+	margin-left:15px;
+	padding:5px 5px 0 5px;
+}
+.show .dropdown-menu p {
+	font-size:80%;
+}
+
+.cc-revoke {
+	left:auto !important;
+	right:3em;
+}
+
+#map {
+    width: 100%;
+    height: 100px;
+    margin-top: 20px;
+    -webkit-transition: all 0.5s;
+    transition: all 0.5s;
+}
+
+.btn {
+	cursor: pointer;
+}
+
+
+.queryFired .sidesearch {
+	height:0;
+	overflow:hidden;
+}
+
+.facets {
+	padding:0 10px;
+}
+
+.export-btn {
+	float:right;
+	margin:5px 0 0 5px;
+}
+
+#enlarge-map {
+	margin-top:5px;
+}
+
+#reset-btn {
+	display:none;
+	float:right;
+}
+.queryFired #reset-btn {
+	display:block;
+}
+
+.nc-icon {
+	float:right;
+	display:block;
+	margin:3px 0 0 5px;
+}
+
+.result {
+	border-top: 1px solid #eee;
+	margin-top: 20px;
+	padding-top: 20px;
+}
+.result:first-child {
+	margin-top: 0;
+}
+.result h3 {
+	margin-top: 0;
+	font-size: 1.1rem;
+    font-weight: bold;
+}
+.result em {
+	font-weight: bold;
+	font-style: normal;
+}
+.metadata {
+	display: none;
+	padding-bottom: 20px;
+}
+.metadata table td {
+	vertical-align: top;
+	border: 1px solid #eeeeee;
+	padding: 5px 10px;
+}
+.metadata table td ul {
+	padding-left: 18px;
+}
+style.featherlight-inner {
+	display: none !important;
+}
+
+.hidden {
+	display:none;
+}
+
+.result-filename {
+	font-size:80%;
+	font-style:italic;
+}
+
+.map-row {
+	display:none;
+}
+.queryFired .map-row {
+	display:block;
+}
+
+.navbar .navbar-toggler.navbar-toggler-right {
+    margin-top: -23px;
+}
+@media(max-width: 991px) {
+    .navbar-brand {
+		margin-top: -7px !important;
+	}
+}
+
+.show-on-mobile {
+	display:none;
+}
+@media(max-width: 991px) {
+	.show-on-mobile {
+		display:block;
+	}
+}
+.show-on-desktop {
+	display:block;
+}
+@media(max-width: 991px) {
+	.show-on-desktop {
+		display:none;
+	}
+}
+
+.source_checkbox {
+	width:auto !important;
+}

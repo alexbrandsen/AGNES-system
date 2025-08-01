@@ -1,0 +1,316 @@
+XXX,onbekend
+DEPO,depot
+DEPO.MV,meervoudig depot
+DEPO.EV,enkelvoudig depot
+CTHD.X,cultus / heiligdom
+CTHD.KLO,klooster
+CTHD.KPL,kapel
+CTHD.SGMW,synagoge / mikweh
+CTHD.KERK,kerk
+CTHD.RCP,cultusplaats / heiligdom / tempel
+CTHD.OLOC,openluchtofferplaats of cultusplaats
+CTHD.TEMP,tempel
+BEWV.X,bewoning (inclusief verdediging)
+BEWV.LG,loopgraaf
+BEWV.WB,(ring)walburg
+BEWV.SCH,schans
+BEWV.VX,versterking onbepaald
+BEWV.VLP,legerplaats
+BEWV.LK,legerkamp
+BEWV.CT,castrum
+BEWV.CSTL,castellum
+BEWV.MBH,moated site
+BEWVV.PLS,paleo landschap
+BEWV.KWB,kasteel
+BEWV.HT,huisterp / huiswierde
+BEWV.AW,aardwerk
+BEWV.DUMP,dump
+BEWV.VIC,vicus
+BEWV.KAZE,kazematten
+BEWV.FORT,fort
+BEWV.SK,nederzetting met stedelijk karakter
+BEWV.WP,burgus / wachtpost
+BEWV.N,niet opgehoogde nederzetting zonder stedelijk karakter
+BEWV.RV,(romeinse) villa
+BEWV.STEL,stelling / linie
+BEWV.BW,bolwerk
+BEWV.HP,"niet opgehoogde, individuele huisplaats"
+BEWV.TH,thermen
+BEWV.INKA,(internerings)kamp
+BEWV.SV,slagveld
+BEWV.BEXT,kampement
+BEWV.VKM,mottekasteel
+BEWV.TW,terp / wierde
+BEWV.LW,landweer
+APVV.X,agrarische productie en voedselvoorziening
+APVV.VW,visweer
+APVV.VK,veekraal / schaapskooi
+APVV.VS,visserij
+APVV.STEL,stelle / stelberg
+APVV.EK,eendenkooi
+APVV.CF,celtic field
+APVV.DP,drenkplaats / dobbe
+APVV.LA,akker / tuin
+APVV.AK,akker
+APVV.TUIN,(moes)tuin
+APVV.PDEK,plaggendek
+WRAK,wrak
+WRAK.SCHIP,scheepswrak
+WRAK.VLGTG,vliegtuigwrak
+IDNH.X,industrie en nijverheid
+IDNH.TK,traankokerij
+IDNH.TN,textielnijverheid
+IDNH.BR,bierbrouwerij
+IDNH.ZP,zoutproductie
+IDNH.SB,steen- of pannenbakkerij
+IDNH.HKB,houtskool- of kolenbranderij
+IDNH.BB,beenbewerking
+IDNH.LL,leerlooierij
+IDNH.HB,houtbewerking / schrijnwerkerswerkplaats
+IDNH.M,molen
+IDNH.ROM,rosmolen
+IDNH.WAM,watermolen
+IDNH.WIM,windmolen
+IDNH.GP,glasproductie
+IDNH.PB,pottenbakkerij
+IDNH.VB,vuursteenbewerking
+IDNH.MB,metaalbewerking / smederij / smelterij
+IDNH.MBNF,"metaalbewerking, non ferro"
+IDNH.MBF,"metaalbewerking, ferro"
+IDNH.KB,kalkbranderij
+SV.X,scheepvaart
+SV.OBSB,opgeboeide boomstamboot
+SV.IJZ,"vaartuig, ijzeren huid en ijzeren spanten"
+SV.H,"vaartuig, houten huid en houten spanten"
+SV.LAD,lading
+SV.HIJZ,"vaartuig, houten huid en ijzeren spanten"
+SV.VORG,"vaartuig, leer / huid met benen of houten frame"
+SV.BSB,boomstamboot
+GW.X,grondstofwinning
+GW.VW,veenwinning (inclusief zouthoudend veen t.b.v. zoutproductie)
+GW.HOUT,houtwinning
+GW.IJW,ijzerertswinning
+GW.ZW,zandwinning
+GW.KW,kleiwinning
+GW.GRIW,grindwinning
+GW.MW,kalksteen-of mergelwinning
+GW.VSW,vuursteenwinning
+BGV.X,begraving
+BGR.GVIC,"grafveld, gemengd"
+BGV.GVC,"grafveld, crematies"
+BGV.TPGB,terechtstellingsplaats / galgenberg
+BGV.GVI,"grafveld, inhumaties"
+BGV.GVX,grafveld
+BGV.KH,kerkhof
+BGV.RGV,rijengrafveld
+BGV.GHV,grafheuvelveld
+BGV.BHV,brandheuvelveld
+BGV.VGV,vlakgrafveld
+BGV.CJBP,christelijk / joodse begraafplaats
+BGV.UV,urnenveld
+BGV.GH,grafheuvel
+BGV.GX,graf
+BGV.VG,vlakgraf
+BGV.DIER,dierengraf
+BGV.MEG,megalietgraf
+INFR.X,infrastructuur
+INFR.WEG,weg
+INFR.DAM,dam
+INFR.WERF,scheepswerf / helling scheepswerf
+INFR.GEM,gemaal
+INFR.REDE,rede
+INFR.PER,afwateringskanaal / inundatiekanaal / greppel / sloot
+INFR.STREK,strekdam
+INFR.WAT,waterweg (natuurlijk)
+INFR.DUI,duiker
+INFR.VIJV,vijver
+INFR.KAN,kanaal
+INFR.SLU,sluis
+INFR.KSLU,keersluis
+INFR.LV,losse vondst
+INFR.HAV,haven
+INFR.KADE,kade / loswal
+INFR.VWEG,veenweg
+INFR.BRUG,brug
+INFR.DOK,dok
+INFR.VS,veerstoep
+INFR.VRDE,voorde
+INFR.SPRE,spreng
+INFR.WATW,waterweg
+INFR.DIJ,dijk
+DEPO,depot
+RX,cultus / heiligdom
+RKLO,klooster
+RKAP,kapel
+RKER,kerk
+RCP,cultusplaats / heiligdom / tempel
+NX,bewoning (inclusief verdediging)
+VWB,(ring)walburg
+VSCH,schans
+VX,versterking onbepaald
+VLP,legerplaats
+NVB,moated site
+NVH,moated site
+NMS,moated site
+VKW,kasteel
+VK,kasteel
+NHT,huisterp / huiswierde
+NKD,vicus
+NWD,vicus
+NS,nederzetting met stedelijk karakter
+VWP,burgus / wachtpost
+NRV,(romeinse) villa
+NHP,"niet opgehoogde, individuele huisplaats"
+NBAS,kampement
+NEXT,kampement
+VKM,mottekasteel
+NT,terp / wierde
+VLW,landweer
+ELX,agrarische productie en voedselvoorziening
+ELVK,veekraal / schaapskooi
+EVX,visserij
+ELEK,eendenkooi
+ELCF,celtic field
+ELDP,drenkplaats / dobbe
+ELA,akker / tuin
+EX,industrie en nijverheid
+EIX,industrie en nijverheid
+EITN,textielnijverheid
+EIB,bierbrouwerij
+EISB,steen- of pannenbakkerij
+EIHK,houtskool- of kolenbranderij
+EIBB,beenbewerking
+EILL,leerlooierij
+EIHB,houtbewerking / schrijnwerkerswerkplaats
+EIM,molen
+EIGB,glasproductie
+EIPB,pottenbakkerij
+EIVB,vuursteenbewerking
+EISM,metaalbewerking / smederij / smelterij
+EIMB,metaalbewerking / smederij / smelterij
+EIKB,kalkbranderij
+ESCH,scheepvaart
+EGX,grondstofwinning
+EGVW,veenwinning
+EGZW,veenwinning
+EGYW,ijzerertswinning
+EGKW,kleiwinning
+EGMW,kalksteen-of mergelwinning
+EGVU,vuursteenwinning
+GX,begraving
+GVIC,"grafveld, gemengd"
+GVC,"grafveld, crematies"
+GVI,"grafveld, inhumaties"
+GVX,grafveld
+GVIK,kerkhof
+GVIR,rijengrafveld
+GVC,grafheuvelveld
+GVI,grafheuvelveld
+GVIC,grafheuvelveld
+GVI,christelijk / joodse begraafplaats
+GVCU,urnenveld
+GVX,urnenveld
+GHC,grafheuvel
+GHIC,grafheuvel
+GHI,grafheuvel
+GHX,grafheuvel
+GX,graf
+GCV,vlakgraf
+GIV,vlakgraf
+GXV,vlakgraf
+GD,dierengraf
+GMEG,megalietgraf
+IX,infrastructuur
+IWEG,weg
+IDAM,dam
+IGEM,gemaal
+IPER,afwateringskanaal / inundatiekanaal / greppel / sloot
+IWAT,waterweg (natuurlijk)
+IDUI,duiker
+IKAN,kanaal
+ISLU,sluis
+IHAV,haven
+ISTE,kade / loswal
+IVW,veenweg
+IBRU,brug
+IDIJ,dijk
+PROTO,Protohistorie
+ROM,Romeinse Tijd
+ROMM,Midden Romeinse Tijd
+ROMMA,Midden Romeinse Tijd A
+ROMMB,Midden Romeinse Tijd B
+ROML,Laat Romeinse Tijd
+ROMLB,Laat Romeinse Tijd B
+ROMLA,Laat Romeinse Tijd A
+ROMV,Vroeg Romeinse Tijd
+ROMVA,Vroeg Romeinse Tijd A
+ROMVB,Vroeg Romeinse Tijd B
+HIST,Historie
+RECENT,Recent
+NT,Nieuwe Tijd
+NTL,Nieuwe Tijd Laat
+WO2,Tweede Wereldoorlog
+NTM,Nieuwe Tijd Midden
+NTV,Nieuwe Tijd Vroeg
+ME,Middeleeuwen
+MEVOL,Volle Middeleeuwen
+MEL,Late Middeleeuwen
+MELB,Late Middeleeuwen B
+MELA,Late Middeleeuwen A
+MEV,Vroege Middeleeuwen
+MEVD,Vroege Middeleeuwen D
+MEVB,Vroege Middeleeuwen B
+MEVA,Vroege Middeleeuwen A
+MEVC,Vroege Middeleeuwen C
+PREH,Prehistorie
+IJZ,IJzertijd
+IJZM,Midden IJzertijd
+IJZL,Late IJzertijd
+IJZV,Vroege IJzertijd
+BRONS,Bronstijd
+BRONSV,Vroege Bronstijd
+BRONSL,Late Bronstijd
+BRONSM,Midden Bronstijd
+BRONSMB,Midden Bronstijd B
+BRONSMA,Midden Bronstijd A
+STEEN,Steentijd
+NEO,Neolithicum
+NEOV,Vroeg Neolithicum
+NEOVA,Vroeg Neolithicum A
+NEOVB,Vroeg Neolithicum B
+NEOL,Laat Neolithicum
+NEOLA,Laat Neolithicum A
+NEOLB,Laat Neolithicum B
+NEOM,Midden Neolithicum
+NEOMB,Midden Neolithicum B
+NEOMA,Midden Neolithicum A
+MESO,Mesolithicum
+MESOL,Laat Mesolithicum
+MESOV,Vroeg Mesolithicum
+MESOM,Midden Mesolithicum
+PALEO,Paleolithicum
+PALEOV,Vroeg Paleolithicum
+PALEOM,Midden Paleolithicum
+PALEOL,Laat Paleolithicum
+PALEOLB,Laat Paleolithicum B
+PALEOLA,Laat Paleolithicum A
+NTC,Nieuwe Tijd Laat
+NTB,Nieuwe Tijd Midden
+NTA,Nieuwe Tijd Vroeg
+XME,Middeleeuwen
+MIDHG,Volle Middeleeuwen
+MIDVL,Volle Middeleeuwen
+LME,Late Middeleeuwen
+LMEB,Late Middeleeuwen B
+LMEA,Late Middeleeuwen A
+VME,Vroege Middeleeuwen
+VMED,Vroege Middeleeuwen D
+VMEB,Vroege Middeleeuwen B
+VMEA,Vroege Middeleeuwen A
+VMEC,Vroege Middeleeuwen C
+report,Rapport
+dag_week_rapport,Dag/week rapport
+plan_van_aanpak,Plan van aanpak
+programma_van_eisen,Programma van eisen
+onderzoeksmeldingsnummer,Onderzoeksmelding
+do,Definitieve Opgraving
